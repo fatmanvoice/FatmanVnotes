@@ -2,13 +2,31 @@
 
 // put your custom CSS here!
 
-// 胖市民專屬：霧面青瓷色 NOTE 區塊 (Quartz 網頁版)
+// 胖市民專屬：霧面青瓷色 NOTE 區塊 (極簡原版還原)
 .callout[data-callout="note"] {
-  // 修改邊框與圖示的顏色 (霧面青瓷色)
-  --color: rgba(150, 200, 200, 1);
-  // 修改背景顏色 (極淡的底色，增加呼吸感)
-  --background-color: rgba(150, 200, 200, 0.1);
-  // 修改邊框粗細與樣式
-  border: none !important;
+  // 1. 精準定義核心顏色變數為 150, 200, 200
+  --color: rgb(150, 200, 200) !important;
   
+  // 2. 底色使用極淡透明度 (0.05)，完美重現呼吸感
+  background-color: rgba(150, 200, 200, 0.05) !important;
+  
+  // 3. 移除 Quartz 預設包圍的 1px 細邊框，還原開放感
+  border: none !important;
+}
+
+
+// 調整左側選單（Explorer）的字體大小與間距
+.explorer {
+  // 調整資料夾與筆記標題的字體大小（預設通常較大，這裡調成舒服的 0.95rem）
+  font-size: 0.9rem !important;
+
+  // 調整目錄每一行之間的上下間距，讓它更有呼吸感
+  li {
+    margin: 4px 0 !important;
+  }
+
+  // 精準控制檔案名稱的字級（讓長檔名如預算案時間軸更不易斷行）
+  a {
+    font-size: 0.8rem !important;
+  }
 }
