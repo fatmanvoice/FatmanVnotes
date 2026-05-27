@@ -15,10 +15,14 @@
 }
 
 
-// 隱藏首頁（index）的文章資訊（日期）與屬性表格（Properties）
 [data-slug="index"] {
-  .content-meta, 
-  .properties {
+  
+  // 隱藏灰色 Properties 表格、表頭屬性面板（把所有可能的命名一口氣封鎖）
+  .properties,
+  [class*="property"],
+  [class*="meta-list"],
+  .obsidian-properties,
+  details {
     display: none !important;
   }
 }
