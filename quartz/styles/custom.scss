@@ -27,11 +27,30 @@
 
   // 精準控制檔案名稱的字級（讓長檔名如預算案時間軸更不易斷行）
   a {
-    font-size: 0.6rem !important;
+    font-size: 0.8rem !important;
   }
 }
 
 // 隱藏右側關係圖（Graph View）的預設文字標籤
 .graph-view text {
   display: none !important;
+}
+
+
+// 【終極修正】大目錄頁面 (Folder Page) 字體大小強制縮小
+article.folder-page {
+  // 1. 強制把目錄頁面裡面的列表標題變小
+  li.section-item {
+    margin: 0.8rem 0 !important; // 縮小上下行距
+    
+    .desc a {
+      font-size: 1.05rem !important; // 強制定死字級（原本大約有 1.5rem，這裡直接降下來）
+      font-weight: 500 !important;
+    }
+  }
+
+  // 2. 順便把目錄最上方的主要大標題（例如 a-constitutional）也縮小一點，更有層次
+  & > h1 {
+    font-size: 1.6rem !important;
+  }
 }
