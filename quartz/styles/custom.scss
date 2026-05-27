@@ -1,3 +1,19 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// 胖市民專屬：霧面青瓷色 NOTE 區塊 (Quartz 網頁版)
+.callout[data-callout="note"] {
+  // 修改邊框與圖示的顏色 (霧面青瓷色)
+  --color: rgba(150, 200, 200, 1);
+  // 修改背景顏色 (極淡的底色，增加呼吸感)
+  --bg: rgba(150, 200, 200, 0.05);
+  // 修改邊框粗細與樣式
+  border: 1px solid var(--color);
+  
+  // (選擇性) 替換圖示為你喜歡的鉛筆造型
+  // 如果想保留 Quartz 預設的 Note 圖示，這段可以刪除
+  .callout-icon {
+    content: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="rgb(150,200,200)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-pencil"><path d="M17 3a2.85 2.83 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5Z"/><path d="m15 5 4 4"/></svg>');
+  }
+}
