@@ -1,6 +1,6 @@
 ---
 title: 凹凸不平胖筆記
-description: 歡迎來到凹凸不平胖市民的胖筆記，讓我們一起對抗認知作戰吧。
+description: 歡迎來到凹凸不平胖市民的胖筆記，一起來對抗認知作戰吧。
 image: https://fatmanvoice.github.io/fatmanvnotes/static/cover.jpg
 ---
 
