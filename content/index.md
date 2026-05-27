@@ -1,6 +1,7 @@
 ---
 title: 凹凸不平胖筆記
 description: 歡迎來到凹凸不平胖市民的胖筆記，讓我們一起對抗認知作戰吧。
+image: https://fatmanvoice.github.io/fatmanvnotes/static/cover.jpg
 ---
 
 # 藝術，是社會最後的良心 🎨
@@ -9,7 +10,7 @@ description: 歡迎來到凹凸不平胖市民的胖筆記，讓我們一起對�
 
 ---
 
-![[cover.jpg|400]]
+![[indexcover.jpg|400]]
 ## 🐱 關於凹凸不平胖市民
 
 *我是蘇酥，畫我所愛的人們、土地與信念。*
