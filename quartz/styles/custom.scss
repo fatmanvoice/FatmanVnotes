@@ -30,3 +30,8 @@
     font-size: 0.6rem !important;
   }
 }
+
+// 隱藏右側關係圖（Graph View）的預設文字標籤
+.graph-view text {
+  display: none !important;
+}
