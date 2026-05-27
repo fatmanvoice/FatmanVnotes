@@ -15,6 +15,14 @@
 }
 
 
+// 隱藏首頁（index）的文章資訊（日期）與屬性表格（Properties）
+[data-slug="index"] {
+  .content-meta, 
+  .properties {
+    display: none !important;
+  }
+}
+
 // 調整左側選單（Explorer）的字體大小與間距
 .explorer {
   // 調整資料夾與筆記標題的字體大小（預設通常較大，這裡調成舒服的 0.95rem）
