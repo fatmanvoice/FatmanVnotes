@@ -49,6 +49,19 @@ article {
   }
 }
 
+// 【修正清單縮排】讓第二層（及以上）的清單有明顯的階層感
+article {
+  // 針對清單中的子清單（ul 裡面的 ul、ol 裡面的 ul 等所有組合）
+  ul ul, 
+  ul ol, 
+  ol ul, 
+  ol ol {
+    padding-left: 1.5rem !important; // 強制增加左側縮排空間
+    margin-top: 0.3rem !important;   // 稍微拉開與上一層的行距，看起來不擁擠
+    margin-bottom: 0.2rem !important;
+  }
+}
+
 // 首頁設定
 [data-slug="index"] {
   .properties,
@@ -72,16 +85,29 @@ article {
   display: none !important;
 }
 
-// 大目錄頁面
-article.folder-page {
-  li.section-item {
+// 大目錄頁面與標籤頁 (全面淨化視覺)
+article.folder-page, 
+article.tag-page {
+  
+  // 1. 強制隱藏：無意義的自動產生時間 (.meta) 與 過長的標籤列 (.tags)
+  .meta, 
+  .tags {
+    display: none !important;
+  }
+
+  // 2. 原本的字體與間距優化 (保留)
+  li.section-item, 
+  li.section-li {
     margin: 0.8rem 0 !important; 
     .desc a {
       font-size: 1.05rem !important; 
       font-weight: 500 !important;
     }
   }
-  & > h1 { font-size: 1.6rem !important; }
+  
+  & > h1 { 
+    font-size: 1.6rem !important; 
+  }
 }
 
 // 全域優化：還原 Obsidian 緊湊感
