@@ -14,15 +14,17 @@
   border: none !important;
 }
 
-// 【版面保護機制】讓圖片自動縮放、置中，絕對不撐爆手機螢幕
+
 article {
-  img {
-    max-width: 100% !important; // 絕對不會超過畫面的 100%
-    height: auto !important;    // 高度等比例自動縮放，不變形
-    display: block !important;
-    margin: 1.5rem auto !important; // 上下保持一點呼吸空間，左右自動置中
+  // 1. 強制規範 Quartz 產生的圖片外層隱形容器 (這才是撐爆畫面的主因)
+  span.internal-embed, 
+  span.image-embed {
+    display: block !important;       // 強制轉為區塊元素才能被限制寬度
+    max-width: 100% !important;      // 絕對不允許超出螢幕
+    margin: 1.5rem auto !important;  // 上下留出呼吸空間，左右置中
+    text-align: center !important;   // 確保內部圖片置中
+    box-sizing: border-box !important;
   }
-}
 
 
 [data-slug="index"] {
