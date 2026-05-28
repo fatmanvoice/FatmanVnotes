@@ -46,23 +46,28 @@ article {
   }
 }
 
-// 【全新修正】清單與縮排 (第一層、嵌套層、內文換行全面對齊)
+// 【全新修正】清單與縮排 (全面強化階層感，自帶青瓷色引導線)
 article {
-  // 1. 讓所有清單本身都有基本的左側縮排
+  // 1. 強制放大第一層的左側縮排距離
   ul, ol {
-    padding-left: 1.5rem !important; 
+    padding-left: 2.2rem !important; 
   }
-  // 2. 針對子清單 (第二層以上的縮排)
-  li > ul, 
-  li > ol {
-    padding-left: 1.5rem !important; 
-    margin-top: 0.3rem !important;
-    margin-bottom: 0.3rem !important;
+  
+  li {
+    margin: 0.5rem 0 !important;
   }
-  // 3. 針對清單內直接換行的「純文字段落」(避免跟上一層黏在一起)
+  
   li > p {
-    margin-top: 0.3rem !important;
-    margin-bottom: 0.3rem !important;
+    margin-top: 0.4rem !important;
+    margin-bottom: 0.4rem !important;
+  }
+
+  // 2. 針對第二層(含以上)子清單，加上左側邊線還原 Obsidian 視覺
+  ul ul, ul ol, ol ul, ol ol {
+    padding-left: 1.5rem !important; 
+    margin-top: 0.5rem !important;
+    margin-bottom: 0.5rem !important;
+    border-left: 2px solid rgba(150, 200, 200, 0.4) !important; // 加上淡淡的青瓷色垂直引導線
   }
 }
 
@@ -89,14 +94,31 @@ article {
   display: none !important;
 }
 
-// 【全新修正】大目錄頁面與標籤頁 (精準打擊 Quartz 5 預設清單)
+// 【終極修復】大目錄頁面與標籤頁 (解放被擠壓的標題)
 ul.section-ul {
+  padding-left: 0 !important; // 移除預設留白
+  list-style: none !important; // 隱藏圓點
+
   li.section-li {
-    margin: 1.2rem 0 !important; // 稍微拉開文章之間的距離，讓畫面有呼吸感
+    margin: 1.5rem 0 !important; // 拉開每篇文章的上下間距
     
+    // 關鍵解法：破除 Quartz 的網格限制，讓標題 100% 舒展
+    .section, 
+    .section > .desc {
+      display: block !important;
+      width: 100% !important;
+      max-width: 100% !important;
+    }
+
+    .desc h3 {
+      margin: 0 !important;
+    }
+
     .desc a {
-      font-size: 1.15rem !important; // 讓文章標題大一點，成為視覺重點
+      font-size: 1.25rem !important; // 把標題字體再放大，大氣又清楚
       font-weight: 500 !important;
+      display: inline-block !important;
+      line-height: 1.4 !important;
     }
 
     // 強制隱藏：無意義的時間與標籤列
@@ -114,20 +136,9 @@ article {
     font-size: 0.95rem !important;
     line-height: 1.55 !important;
   }
-  h1 { 
-    font-size: 1.7rem !important; 
-    margin-top: 1.5rem !important; 
-    margin-bottom: 0.8rem !important;
-  }
-  h2 { 
-    font-size: 1.45rem !important; 
-    margin-top: 1.2rem !important; 
-    margin-bottom: 0.6rem !important;
-  }
-  h3 { 
-    font-size: 1.25rem !important; 
-    margin-top: 1rem !important; 
-  }
+  h1 { font-size: 1.7rem !important; margin-top: 1.5rem !important; margin-bottom: 0.8rem !important; }
+  h2 { font-size: 1.45rem !important; margin-top: 1.2rem !important; margin-bottom: 0.6rem !important; }
+  h3 { font-size: 1.25rem !important; margin-top: 1rem !important; }
   .callout {
     padding: 0.8rem 1rem !important; 
     .callout-title { font-size: 1rem !important; }
