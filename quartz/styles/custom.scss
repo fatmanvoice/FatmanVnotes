@@ -109,23 +109,23 @@ article {
 .explorer { font-size: 0.9rem !important; li { margin: 4px 0 !important; } a { font-size: 0.8rem !important; } }
 .graph-view text { display: none !important; }
 
+/* 修改後的大目錄頁面日期顯示 */
 ul.section-ul {
-  padding-left: 0 !important;
-  list-style: none !important;
+  /* ... (其他設定保持不變) */
   li.section-li {
     margin: 1.5rem 0 !important;
     .section, .section > .desc { display: block !important; width: 100% !important; }
     .desc a { font-size: 1.25rem !important; font-weight: 500 !important; }
     
-    /* 這裡原本隱藏了 .meta，我們將其開啟並設定樣式 */
+    /* 【關鍵修正】：將 display 改為 inline-block 或 inline */
     .meta { 
-      display: block !important; 
+      display: inline-block !important; /* 讓日期與標題共存一行 */
       font-size: 0.85rem !important; 
       color: #888 !important; 
-      margin-top: 0.3rem !important;
+      margin-left: 10px !important;    /* 增加一點與標題的左右間距 */
+      margin-top: 0 !important;        /* 移除上方的 margin-top */
     }
     
-    /* 這裡繼續隱藏標籤，保持頁面乾淨 */
     .tags, ul.tags { display: none !important; }
   }
 }
