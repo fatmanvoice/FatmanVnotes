@@ -46,6 +46,32 @@ article {
   }
 }
 
+/* 胖市民專屬：強制覆蓋主題插件，並與 quartz.config.yaml 顏色同步 */
+
+:root {
+  // 對應 lightMode 的 secondary 與 tertiary
+  --secondary: #00b2b2 !important; 
+  --tertiary: #00FFFF !important;   
+}
+
+[data-theme="dark"] {
+  // 對應 darkMode 的 secondary 與 tertiary
+  --secondary: #00FFFF !important; 
+  --tertiary: #33FFFF !important;   
+}
+
+// 統一文章內部連結顏色
+article a {
+  color: var(--secondary) !important;
+  transition: color 0.2s ease !important;
+  
+  &:hover {
+    color: var(--tertiary) !important;
+  }
+}
+
+
+
 // 【全新修正】清單與縮排 (全面強化階層感，自帶青瓷色引導線)
 article {
   // 1. 強制放大第一層的左側縮排距離
