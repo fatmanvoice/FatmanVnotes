@@ -116,7 +116,17 @@ ul.section-ul {
     margin: 1.5rem 0 !important;
     .section, .section > .desc { display: block !important; width: 100% !important; }
     .desc a { font-size: 1.25rem !important; font-weight: 500 !important; }
-    .meta, .tags, ul.tags { display: none !important; }
+    
+    /* 這裡原本隱藏了 .meta，我們將其開啟並設定樣式 */
+    .meta { 
+      display: block !important; 
+      font-size: 0.85rem !important; 
+      color: #888 !important; 
+      margin-top: 0.3rem !important;
+    }
+    
+    /* 這裡繼續隱藏標籤，保持頁面乾淨 */
+    .tags, ul.tags { display: none !important; }
   }
 }
 
