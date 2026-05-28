@@ -23,12 +23,20 @@ article a {
   }
 }
 
-/* 終極青瓷質感標籤設定 */
+/* 終極標籤設定：青瓷色、藥丸狀、無邊框 */
 article {
   .tag-link, .pill, a.tag {
+    /* 顏色與背景 */
     background-color: rgba(0, 178, 178, 0.15) !important; 
     border: none !important;
     color: #00b2b2 !important;
+    
+    /* 顯示與排版 */
+    display: inline-block !important;
+    width: auto !important; 
+    max-width: fit-content !important;
+    padding: 0.2rem 0.6rem !important; 
+    margin-right: 0.5rem !important;
     
     &:hover {
       background-color: rgba(0, 178, 178, 0.25) !important;
@@ -36,6 +44,7 @@ article {
     }
   }
 
+  /* 強制同步插件底層變數 */
   .tag-link, .pill {
     --pill-background: rgba(0, 178, 178, 0.15) !important;
     --pill-border: none !important;
