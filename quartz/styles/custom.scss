@@ -14,6 +14,16 @@
   border: none !important;
 }
 
+// 【版面保護機制】讓圖片自動縮放、置中，絕對不撐爆手機螢幕
+article {
+  img {
+    max-width: 100% !important; // 絕對不會超過畫面的 100%
+    height: auto !important;    // 高度等比例自動縮放，不變形
+    display: block !important;
+    margin: 1.5rem auto !important; // 上下保持一點呼吸空間，左右自動置中
+  }
+}
+
 
 [data-slug="index"] {
   
@@ -64,5 +74,45 @@ article.folder-page {
   // 2. 順便把目錄最上方的主要大標題（例如 a-constitutional）也縮小一點，更有層次
   & > h1 {
     font-size: 1.6rem !important;
+  }
+}
+
+
+// 【全域優化】縮小網頁字體與行距，還原 Obsidian 的緊湊紮實感
+article {
+  // 1. 基礎內文縮小，並把行距大幅收緊
+  p, li, blockquote {
+    font-size: 0.95rem !important; // 縮小基礎字級
+    line-height: 1.55 !important;  // 收緊行距（預設通常在 1.7 以上，這裡壓低讓文字更聚攏）
+  }
+
+  // 2. 標題同步縮小，並減少標題上下的留白空白
+  h1 { 
+    font-size: 1.7rem !important; 
+    margin-top: 1.5rem !important; 
+    margin-bottom: 0.8rem !important;
+  }
+  h2 { 
+    font-size: 1.45rem !important; 
+    margin-top: 1.2rem !important; 
+    margin-bottom: 0.6rem !important;
+  }
+  h3 { 
+    font-size: 1.25rem !important; 
+    margin-top: 1rem !important; 
+  }
+
+  // 3. 提示區塊（Callout / 案件基本資訊）向內收緊，消除空曠感
+  .callout {
+    padding: 0.8rem 1rem !important; // 縮小框框的內襯留白
+    
+    .callout-title {
+      font-size: 1rem !important; 
+    }
+    
+    .callout-content p, .callout-content li {
+      font-size: 0.95rem !important;
+      line-height: 1.5 !important; // 讓框框內的條列式重點更緊密
+    }
   }
 }
