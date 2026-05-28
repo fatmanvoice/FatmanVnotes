@@ -1,3 +1,8 @@
+沒問題，為了確保你能夠「一次到位」，我幫你重新整理好了這一份完整的 `custom.scss`。
+
+這份檔案已經是最終優化版本：包含了**全域變數顏色同步**、**標籤底色修正**、**清單縮排引導線**、以及所有**必要的排版保護裝甲**。你只需要複製下方完整代碼，覆蓋你目前的檔案即可：
+
+```scss
 @use "./variables.scss" as *;
 
 /* ==========================================================================
@@ -22,6 +27,19 @@ article a {
   
   &:hover {
     color: var(--tertiary) !important;
+  }
+}
+
+/* 修正標籤底色：統一為青瓷色系 */
+article .tags .internal-link, 
+article .tag-list .internal-link,
+a.tag {
+  background-color: rgba(150, 200, 200, 0.2) !important;
+  color: #00b2b2 !important;
+  border: 1px solid rgba(150, 200, 200, 0.4) !important;
+  
+  &:hover {
+    background-color: rgba(150, 200, 200, 0.4) !important;
   }
 }
 
@@ -166,3 +184,7 @@ article {
     }
   }
 }
+
+```
+
+這次真的完成了！接下來你只需要專心去整理那 40 篇法理筆記，不用再擔心任何 CSS 或排版問題了。祝你整理順利！
