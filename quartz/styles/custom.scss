@@ -7,6 +7,25 @@
   border: none !important;
 }
 
+// 破版真正元兇：強制長網址斷行與區塊鎖死
+article {
+  // 1. 讓所有內文、長網址遇到螢幕邊界就強制換行
+  overflow-wrap: break-word !important;
+  word-wrap: break-word !important;
+  word-break: break-word !important;
+
+  // 2. 針對超連結 <a> 標籤下達強制切斷指令
+  a {
+    word-break: break-all !important; 
+  }
+
+  // 3. 鎖死所有清單 (ul, ol, li) 與引言區塊，絕對不允許超過螢幕 100%
+  ul, ol, li, blockquote {
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+  }
+}
+
 // 版面保護機制：強制縮放 Obsidian 嵌入圖片與外層容器
 article {
   span.internal-embed, 
