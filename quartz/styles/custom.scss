@@ -1,16 +1,14 @@
 @use "./variables.scss" as *;
 
 /* ==========================================================================
-   胖市民專屬：強制覆蓋主題插件，並與 quartz.config.yaml 顏色同步
+   胖市民專屬：全域變數與主題插件覆蓋
    ========================================================================== */
 :root {
-  /* 對應 lightMode 的 secondary 與 tertiary */
   --secondary: #00b2b2 !important; 
   --tertiary: #00FFFF !important;   
 }
 
 [data-theme="dark"] {
-  /* 對應 darkMode 的 secondary 與 tertiary */
   --secondary: #00FFFF !important; 
   --tertiary: #33FFFF !important;   
 }
@@ -25,34 +23,27 @@ article a {
   }
 }
 
-/* 終極破除：直接覆蓋 Quartz 標籤藥丸 (pill) 的所有預設值 */
+/* 終極青瓷質感標籤設定 */
 article {
-  .tag-link, 
-  .pill, 
-  a.tag {
-    /* 強制變更背景顏色 */
-    background-color: rgba(150, 200, 200, 0.2) !important;
-    /* 強制變更邊框顏色 */
-    border: 1px solid rgba(150, 200, 200, 0.4) !important;
-    /* 強制變更文字顏色 */
+  .tag-link, .pill, a.tag {
+    background-color: rgba(0, 178, 178, 0.15) !important; 
+    border: none !important;
     color: #00b2b2 !important;
     
-    /* 確保滑鼠懸停時也不會變回紫色 */
     &:hover {
-      background-color: rgba(150, 200, 200, 0.4) !important;
+      background-color: rgba(0, 178, 178, 0.25) !important;
       color: #00b2b2 !important;
     }
   }
 
-  /* 如果該插件使用了 CSS 變數來控制藥丸背景，這裡強制改掉 */
   .tag-link, .pill {
-    --pill-background: rgba(150, 200, 200, 0.2) !important;
-    --pill-border: rgba(150, 200, 200, 0.4) !important;
+    --pill-background: rgba(0, 178, 178, 0.15) !important;
+    --pill-border: none !important;
     --pill-color: #00b2b2 !important;
   }
 }
 
-/* 胖市民專屬：霧面青瓷色 NOTE 區塊 */
+/* NOTE 區塊樣式 */
 .callout[data-callout="note"] {
   --color: rgb(150, 200, 200) !important;
   background-color: rgba(150, 200, 200, 0.05) !important;
@@ -60,136 +51,70 @@ article {
 }
 
 /* ==========================================================================
-   破版元兇：強制長網址斷行與區塊鎖死
+   排版防護罩：斷行、圖片與清單縮排
    ========================================================================== */
 article {
   overflow-wrap: break-word !important;
   word-wrap: break-word !important;
   word-break: break-word !important;
 
-  a {
-    word-break: break-all !important; 
-  }
+  a { word-break: break-all !important; }
 
   ul, ol, li, blockquote {
     max-width: 100% !important;
     box-sizing: border-box !important;
   }
-}
 
-/* 版面保護機制：強制縮放 Obsidian 嵌入圖片與外層容器 */
-article {
-  span.internal-embed, 
-  span.image-embed {
+  /* 圖片保護 */
+  span.internal-embed, span.image-embed {
     display: block !important;
     max-width: 100% !important;
     margin: 1.5rem auto !important;
     text-align: center !important;
-    box-sizing: border-box !important;
   }
 
-  span.internal-embed img,
-  p > img,
   img {
     max-width: 90% !important; 
     width: auto !important; 
     height: auto !important;
     display: block !important; 
     margin: 0 auto !important; 
-    box-sizing: border-box !important;
-  }
-}
-
-/* 清單與縮排 (全面強化階層感，自帶青瓷色引導線) */
-article {
-  ul, ol {
-    padding-left: 2.2rem !important; 
-  }
-  
-  li {
-    margin: 0.5rem 0 !important;
-  }
-  
-  li > p {
-    margin-top: 0.4rem !important;
-    margin-bottom: 0.4rem !important;
   }
 
-  /* 針對第二層(含以上)子清單，加上淡淡的青瓷色垂直引導線 */
+  /* 清單層次 */
+  ul, ol { padding-left: 2.2rem !important; }
+  li { margin: 0.5rem 0 !important; }
+  li > p { margin-top: 0.4rem !important; margin-bottom: 0.4rem !important; }
   ul ul, ul ol, ol ul, ol ol {
     padding-left: 1.5rem !important; 
-    margin-top: 0.5rem !important;
-    margin-bottom: 0.5rem !important;
+    margin: 0.5rem 0 !important;
     border-left: 2px solid rgba(150, 200, 200, 0.4) !important; 
   }
 }
 
-/* 首頁與選單設定 */
+/* 介面細節優化 */
 [data-slug="index"] {
-  .properties,
-  [class*="property"],
-  [class*="meta-list"],
-  .obsidian-properties,
-  details {
-    display: none !important;
-  }
+  .properties, [class*="property"], .obsidian-properties, details { display: none !important; }
 }
 
-.explorer {
-  font-size: 0.9rem !important;
-  li { margin: 4px 0 !important; }
-  a { font-size: 0.8rem !important; }
-}
+.explorer { font-size: 0.9rem !important; li { margin: 4px 0 !important; } a { font-size: 0.8rem !important; } }
+.graph-view text { display: none !important; }
 
-.graph-view text {
-  display: none !important;
-}
-
-/* 大目錄頁面優化 (解放被擠壓的標題) */
 ul.section-ul {
   padding-left: 0 !important;
   list-style: none !important;
-
   li.section-li {
     margin: 1.5rem 0 !important;
-    
-    .section, 
-    .section > .desc {
-      display: block !important;
-      width: 100% !important;
-      max-width: 100% !important;
-    }
-
-    .desc h3 { margin: 0 !important; }
-
-    .desc a {
-      font-size: 1.25rem !important;
-      font-weight: 500 !important;
-      display: inline-block !important;
-      line-height: 1.4 !important;
-    }
-
-    .meta, .tags, ul.tags {
-      display: none !important;
-    }
+    .section, .section > .desc { display: block !important; width: 100% !important; }
+    .desc a { font-size: 1.25rem !important; font-weight: 500 !important; }
+    .meta, .tags, ul.tags { display: none !important; }
   }
 }
 
-/* 全域優化：還原 Obsidian 緊湊感 */
+/* 全域文字緊湊感 */
 article {
-  p, li, blockquote {
-    font-size: 0.95rem !important;
-    line-height: 1.55 !important;
-  }
-  h1 { font-size: 1.7rem !important; margin-top: 1.5rem !important; margin-bottom: 0.8rem !important; }
-  h2 { font-size: 1.45rem !important; margin-top: 1.2rem !important; margin-bottom: 0.6rem !important; }
-  h3 { font-size: 1.25rem !important; margin-top: 1rem !important; }
-  .callout {
-    padding: 0.8rem 1rem !important; 
-    .callout-title { font-size: 1rem !important; }
-    .callout-content p, .callout-content li {
-      font-size: 0.95rem !important;
-      line-height: 1.5 !important;
-    }
-  }
+  p, li, blockquote { font-size: 0.95rem !important; line-height: 1.55 !important; }
+  h1 { font-size: 1.7rem !important; }
+  h2 { font-size: 1.45rem !important; }
+  h3 { font-size: 1.25rem !important; }
 }
