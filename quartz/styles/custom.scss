@@ -1,13 +1,40 @@
 @use "./variables.scss" as *;
 
-// 胖市民專屬：霧面青瓷色 NOTE 區塊
+/* ==========================================================================
+   胖市民專屬：強制覆蓋主題插件，並與 quartz.config.yaml 顏色同步
+   ========================================================================== */
+:root {
+  /* 對應 lightMode 的 secondary 與 tertiary */
+  --secondary: #00b2b2 !important; 
+  --tertiary: #00FFFF !important;   
+}
+
+[data-theme="dark"] {
+  /* 對應 darkMode 的 secondary 與 tertiary */
+  --secondary: #00FFFF !important; 
+  --tertiary: #33FFFF !important;   
+}
+
+/* 統一文章內部連結顏色 */
+article a {
+  color: var(--secondary) !important;
+  transition: color 0.2s ease !important;
+  
+  &:hover {
+    color: var(--tertiary) !important;
+  }
+}
+
+/* 胖市民專屬：霧面青瓷色 NOTE 區塊 */
 .callout[data-callout="note"] {
   --color: rgb(150, 200, 200) !important;
   background-color: rgba(150, 200, 200, 0.05) !important;
   border: none !important;
 }
 
-// 破版真正元兇：強制長網址斷行與區塊鎖死
+/* ==========================================================================
+   破版元兇：強制長網址斷行與區塊鎖死
+   ========================================================================== */
 article {
   overflow-wrap: break-word !important;
   word-wrap: break-word !important;
@@ -23,7 +50,7 @@ article {
   }
 }
 
-// 版面保護機制：強制縮放 Obsidian 嵌入圖片與外層容器
+/* 版面保護機制：強制縮放 Obsidian 嵌入圖片與外層容器 */
 article {
   span.internal-embed, 
   span.image-embed {
@@ -46,35 +73,8 @@ article {
   }
 }
 
-/* 胖市民專屬：強制覆蓋主題插件，並與 quartz.config.yaml 顏色同步 */
-
-:root {
-  // 對應 lightMode 的 secondary 與 tertiary
-  --secondary: #00b2b2 !important; 
-  --tertiary: #00FFFF !important;   
-}
-
-[data-theme="dark"] {
-  // 對應 darkMode 的 secondary 與 tertiary
-  --secondary: #00FFFF !important; 
-  --tertiary: #33FFFF !important;   
-}
-
-// 統一文章內部連結顏色
-article a {
-  color: var(--secondary) !important;
-  transition: color 0.2s ease !important;
-  
-  &:hover {
-    color: var(--tertiary) !important;
-  }
-}
-
-
-
-// 【全新修正】清單與縮排 (全面強化階層感，自帶青瓷色引導線)
+/* 清單與縮排 (全面強化階層感，自帶青瓷色引導線) */
 article {
-  // 1. 強制放大第一層的左側縮排距離
   ul, ol {
     padding-left: 2.2rem !important; 
   }
@@ -88,16 +88,16 @@ article {
     margin-bottom: 0.4rem !important;
   }
 
-  // 2. 針對第二層(含以上)子清單，加上左側邊線還原 Obsidian 視覺
+  /* 針對第二層(含以上)子清單，加上淡淡的青瓷色垂直引導線 */
   ul ul, ul ol, ol ul, ol ol {
     padding-left: 1.5rem !important; 
     margin-top: 0.5rem !important;
     margin-bottom: 0.5rem !important;
-    border-left: 2px solid rgba(150, 200, 200, 0.4) !important; // 加上淡淡的青瓷色垂直引導線
+    border-left: 2px solid rgba(150, 200, 200, 0.4) !important; 
   }
 }
 
-// 首頁設定
+/* 首頁與選單設定 */
 [data-slug="index"] {
   .properties,
   [class*="property"],
@@ -108,27 +108,24 @@ article {
   }
 }
 
-// 左側選單
 .explorer {
   font-size: 0.9rem !important;
   li { margin: 4px 0 !important; }
   a { font-size: 0.8rem !important; }
 }
 
-// 右側關係圖
 .graph-view text {
   display: none !important;
 }
 
-// 【終極修復】大目錄頁面與標籤頁 (解放被擠壓的標題)
+/* 大目錄頁面優化 (解放被擠壓的標題) */
 ul.section-ul {
-  padding-left: 0 !important; // 移除預設留白
-  list-style: none !important; // 隱藏圓點
+  padding-left: 0 !important;
+  list-style: none !important;
 
   li.section-li {
-    margin: 1.5rem 0 !important; // 拉開每篇文章的上下間距
+    margin: 1.5rem 0 !important;
     
-    // 關鍵解法：破除 Quartz 的網格限制，讓標題 100% 舒展
     .section, 
     .section > .desc {
       display: block !important;
@@ -136,27 +133,22 @@ ul.section-ul {
       max-width: 100% !important;
     }
 
-    .desc h3 {
-      margin: 0 !important;
-    }
+    .desc h3 { margin: 0 !important; }
 
     .desc a {
-      font-size: 1.25rem !important; // 把標題字體再放大，大氣又清楚
+      font-size: 1.25rem !important;
       font-weight: 500 !important;
       display: inline-block !important;
       line-height: 1.4 !important;
     }
 
-    // 強制隱藏：無意義的時間與標籤列
-    .meta, 
-    .tags,
-    ul.tags {
+    .meta, .tags, ul.tags {
       display: none !important;
     }
   }
 }
 
-// 全域優化：還原 Obsidian 緊湊感
+/* 全域優化：還原 Obsidian 緊湊感 */
 article {
   p, li, blockquote {
     font-size: 0.95rem !important;
