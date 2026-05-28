@@ -109,14 +109,34 @@ article {
 .explorer { font-size: 0.9rem !important; li { margin: 4px 0 !important; } a { font-size: 0.8rem !important; } }
 .graph-view text { display: none !important; }
 
+/* 大目錄頁面優化 (還原標籤顯示) */
 ul.section-ul {
   padding-left: 0 !important;
   list-style: none !important;
+
   li.section-li {
     margin: 1.5rem 0 !important;
-    .section, .section > .desc { display: block !important; width: 100% !important; }
-    .desc a { font-size: 1.25rem !important; font-weight: 500 !important; }
-    .meta, .tags, ul.tags { display: none !important; }
+    
+    .section, 
+    .section > .desc {
+      display: block !important;
+      width: 100% !important;
+      max-width: 100% !important;
+    }
+
+    .desc h3 { margin: 0 !important; }
+
+    .desc a {
+      font-size: 1.25rem !important; 
+      font-weight: 500 !important; 
+      display: inline-block !important;
+      line-height: 1.4 !important;
+    }
+
+    /* 【修正點】：將 .tags 和 ul.tags 從 display: none 中移出 */
+    .meta {
+      display: none !important; 
+    }
   }
 }
 
