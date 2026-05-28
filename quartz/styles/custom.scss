@@ -25,18 +25,30 @@ article a {
   }
 }
 
-/* 終極標籤底色覆蓋：無視結構，強制變更 */
-article a.tag,
-article .tag,
-article .metadata-container .tag,
-a[href^="/tags/"] {
-  background-color: rgba(150, 200, 200, 0.2) !important;
-  color: #00b2b2 !important;
-  border: 1px solid rgba(150, 200, 200, 0.4) !important;
-  
-  &:hover {
-    background-color: rgba(150, 200, 200, 0.4) !important;
+/* 終極破除：直接覆蓋 Quartz 標籤藥丸 (pill) 的所有預設值 */
+article {
+  .tag-link, 
+  .pill, 
+  a.tag {
+    /* 強制變更背景顏色 */
+    background-color: rgba(150, 200, 200, 0.2) !important;
+    /* 強制變更邊框顏色 */
+    border: 1px solid rgba(150, 200, 200, 0.4) !important;
+    /* 強制變更文字顏色 */
     color: #00b2b2 !important;
+    
+    /* 確保滑鼠懸停時也不會變回紫色 */
+    &:hover {
+      background-color: rgba(150, 200, 200, 0.4) !important;
+      color: #00b2b2 !important;
+    }
+  }
+
+  /* 如果該插件使用了 CSS 變數來控制藥丸背景，這裡強制改掉 */
+  .tag-link, .pill {
+    --pill-background: rgba(150, 200, 200, 0.2) !important;
+    --pill-border: rgba(150, 200, 200, 0.4) !important;
+    --pill-color: #00b2b2 !important;
   }
 }
 
