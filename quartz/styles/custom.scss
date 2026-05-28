@@ -1,129 +1,129 @@
 @use "./variables.scss" as *;
 
 /* ==========================================================================
-   胖市民專屬：全域變數與主題插件覆蓋
-   ========================================================================== */
+   胖市民專屬：全域變數與主題插件覆蓋
+   ========================================================================== */
 :root {
-  --secondary: #00b2b2 !important; 
-  --tertiary: #00FFFF !important;   
+  --secondary: #00b2b2 !important; 
+  --tertiary: #00FFFF !important;   
 }
 
 [data-theme="dark"] {
-  --secondary: #00FFFF !important; 
-  --tertiary: #33FFFF !important;   
+  --secondary: #00FFFF !important; 
+  --tertiary: #33FFFF !important;   
 }
 
 /* 統一文章內部連結顏色 */
 article a {
-  color: var(--secondary) !important;
-  transition: color 0.2s ease !important;
-  
-  &:hover {
-    color: var(--tertiary) !important;
-  }
+  color: var(--secondary) !important;
+  transition: color 0.2s ease !important;
+  
+  &:hover {
+    color: var(--tertiary) !important;
+  }
 }
 
 /* 終極標籤設定：青瓷色、藥丸狀、無邊框 */
 article {
-  .tag-link, .pill, a.tag {
-    /* 顏色與背景 */
-    background-color: rgba(0, 178, 178, 0.15) !important; 
-    border: none !important;
-    color: #00b2b2 !important;
-    
-    /* 顯示與排版 */
-    display: inline-block !important;
-    width: auto !important; 
-    max-width: fit-content !important;
-    padding: 0.2rem 0.6rem !important; 
-    margin-right: 0.5rem !important;
-    
-    &:hover {
-      background-color: rgba(0, 178, 178, 0.25) !important;
-      color: #00b2b2 !important;
-    }
-  }
+  .tag-link, .pill, a.tag {
+    /* 顏色與背景 */
+    background-color: rgba(0, 178, 178, 0.15) !important; 
+    border: none !important;
+    color: #00b2b2 !important;
+    
+    /* 顯示與排版 */
+    display: inline-block !important;
+    width: auto !important; 
+    max-width: fit-content !important;
+    padding: 0.2rem 0.6rem !important; 
+    margin-right: 0.5rem !important;
+    
+    &:hover {
+      background-color: rgba(0, 178, 178, 0.25) !important;
+      color: #00b2b2 !important;
+    }
+  }
 
-  /* 強制同步插件底層變數 */
-  .tag-link, .pill {
-    --pill-background: rgba(0, 178, 178, 0.15) !important;
-    --pill-border: none !important;
-    --pill-color: #00b2b2 !important;
-  }
+  /* 強制同步插件底層變數 */
+  .tag-link, .pill {
+    --pill-background: rgba(0, 178, 178, 0.15) !important;
+    --pill-border: none !important;
+    --pill-color: #00b2b2 !important;
+  }
 }
 
 /* NOTE 區塊樣式 */
 .callout[data-callout="note"] {
-  --color: rgb(150, 200, 200) !important;
-  background-color: rgba(150, 200, 200, 0.05) !important;
-  border: none !important;
+  --color: rgb(150, 200, 200) !important;
+  background-color: rgba(150, 200, 200, 0.05) !important;
+  border: none !important;
 }
 
 /* ==========================================================================
-   排版防護罩：斷行、圖片與清單縮排
-   ========================================================================== */
+   排版防護罩：斷行、圖片與清單縮排
+   ========================================================================== */
 article {
-  overflow-wrap: break-word !important;
-  word-wrap: break-word !important;
-  word-break: break-word !important;
+  overflow-wrap: break-word !important;
+  word-wrap: break-word !important;
+  word-break: break-word !important;
 
-  a { word-break: break-all !important; }
+  a { word-break: break-all !important; }
 
-  ul, ol, li, blockquote {
-    max-width: 100% !important;
-    box-sizing: border-box !important;
-  }
+  ul, ol, li, blockquote {
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+  }
 
-  /* 圖片保護 */
-  span.internal-embed, span.image-embed {
-    display: block !important;
-    max-width: 100% !important;
-    margin: 1.5rem auto !important;
-    text-align: center !important;
-  }
+  /* 圖片保護 */
+  span.internal-embed, span.image-embed {
+    display: block !important;
+    max-width: 100% !important;
+    margin: 1.5rem auto !important;
+    text-align: center !important;
+  }
 
-  img {
-    max-width: 90% !important; 
-    width: auto !important; 
-    height: auto !important;
-    display: block !important; 
-    margin: 0 auto !important; 
-  }
+  img {
+    max-width: 90% !important; 
+    width: auto !important; 
+    height: auto !important;
+    display: block !important; 
+    margin: 0 auto !important; 
+  }
 
-  /* 清單層次 */
-  ul, ol { padding-left: 2.2rem !important; }
-  li { margin: 0.5rem 0 !important; }
-  li > p { margin-top: 0.4rem !important; margin-bottom: 0.4rem !important; }
-  ul ul, ul ol, ol ul, ol ol {
-    padding-left: 1.5rem !important; 
-    margin: 0.5rem 0 !important;
-    border-left: 2px solid rgba(150, 200, 200, 0.4) !important; 
-  }
+  /* 清單層次 */
+  ul, ol { padding-left: 2.2rem !important; }
+  li { margin: 0.5rem 0 !important; }
+  li > p { margin-top: 0.4rem !important; margin-bottom: 0.4rem !important; }
+  ul ul, ul ol, ol ul, ol ol {
+    padding-left: 1.5rem !important; 
+    margin: 0.5rem 0 !important;
+    border-left: 2px solid rgba(150, 200, 200, 0.4) !important; 
+  }
 }
 
 /* 介面細節優化 */
 [data-slug="index"] {
-  .properties, [class*="property"], .obsidian-properties, details { display: none !important; }
+  .properties, [class*="property"], .obsidian-properties, details { display: none !important; }
 }
 
 .explorer { font-size: 0.9rem !important; li { margin: 4px 0 !important; } a { font-size: 0.8rem !important; } }
 .graph-view text { display: none !important; }
 
 ul.section-ul {
-  padding-left: 0 !important;
-  list-style: none !important;
-  li.section-li {
-    margin: 1.5rem 0 !important;
-    .section, .section > .desc { display: block !important; width: 100% !important; }
-    .desc a { font-size: 1.25rem !important; font-weight: 500 !important; }
-    .meta, .tags, ul.tags { display: none !important; }
-  }
+  padding-left: 0 !important;
+  list-style: none !important;
+  li.section-li {
+    margin: 1.5rem 0 !important;
+    .section, .section > .desc { display: block !important; width: 100% !important; }
+    .desc a { font-size: 1.25rem !important; font-weight: 500 !important; }
+    .meta, .tags, ul.tags { display: none !important; }
+  }
 }
 
 /* 全域文字緊湊感 */
 article {
-  p, li, blockquote { font-size: 0.95rem !important; line-height: 1.55 !important; }
-  h1 { font-size: 1.7rem !important; }
-  h2 { font-size: 1.45rem !important; }
-  h3 { font-size: 1.25rem !important; }
+  p, li, blockquote { font-size: 0.95rem !important; line-height: 1.55 !important; }
+  h1 { font-size: 1.7rem !important; }
+  h2 { font-size: 1.45rem !important; }
+  h3 { font-size: 1.25rem !important; }
 }
