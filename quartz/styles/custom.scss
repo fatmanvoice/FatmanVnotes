@@ -9,17 +9,14 @@
 
 // 破版真正元兇：強制長網址斷行與區塊鎖死
 article {
-  // 1. 讓所有內文、長網址遇到螢幕邊界就強制換行
   overflow-wrap: break-word !important;
   word-wrap: break-word !important;
   word-break: break-word !important;
 
-  // 2. 針對超連結 <a> 標籤下達強制切斷指令
   a {
     word-break: break-all !important; 
   }
 
-  // 3. 鎖死所有清單 (ul, ol, li) 與引言區塊，絕對不允許超過螢幕 100%
   ul, ol, li, blockquote {
     max-width: 100% !important;
     box-sizing: border-box !important;
@@ -49,16 +46,23 @@ article {
   }
 }
 
-// 【修正清單縮排】讓第二層（及以上）的清單有明顯的階層感
+// 【全新修正】清單與縮排 (第一層、嵌套層、內文換行全面對齊)
 article {
-  // 針對清單中的子清單（ul 裡面的 ul、ol 裡面的 ul 等所有組合）
-  ul ul, 
-  ul ol, 
-  ol ul, 
-  ol ol {
-    padding-left: 1.5rem !important; // 強制增加左側縮排空間
-    margin-top: 0.3rem !important;   // 稍微拉開與上一層的行距，看起來不擁擠
-    margin-bottom: 0.2rem !important;
+  // 1. 讓所有清單本身都有基本的左側縮排
+  ul, ol {
+    padding-left: 1.5rem !important; 
+  }
+  // 2. 針對子清單 (第二層以上的縮排)
+  li > ul, 
+  li > ol {
+    padding-left: 1.5rem !important; 
+    margin-top: 0.3rem !important;
+    margin-bottom: 0.3rem !important;
+  }
+  // 3. 針對清單內直接換行的「純文字段落」(避免跟上一層黏在一起)
+  li > p {
+    margin-top: 0.3rem !important;
+    margin-bottom: 0.3rem !important;
   }
 }
 
@@ -85,28 +89,22 @@ article {
   display: none !important;
 }
 
-// 大目錄頁面與標籤頁 (全面淨化視覺)
-article.folder-page, 
-article.tag-page {
-  
-  // 1. 強制隱藏：無意義的自動產生時間 (.meta) 與 過長的標籤列 (.tags)
-  .meta, 
-  .tags {
-    display: none !important;
-  }
-
-  // 2. 原本的字體與間距優化 (保留)
-  li.section-item, 
+// 【全新修正】大目錄頁面與標籤頁 (精準打擊 Quartz 5 預設清單)
+ul.section-ul {
   li.section-li {
-    margin: 0.8rem 0 !important; 
+    margin: 1.2rem 0 !important; // 稍微拉開文章之間的距離，讓畫面有呼吸感
+    
     .desc a {
-      font-size: 1.05rem !important; 
+      font-size: 1.15rem !important; // 讓文章標題大一點，成為視覺重點
       font-weight: 500 !important;
     }
-  }
-  
-  & > h1 { 
-    font-size: 1.6rem !important; 
+
+    // 強制隱藏：無意義的時間與標籤列
+    .meta, 
+    .tags,
+    ul.tags {
+      display: none !important;
+    }
   }
 }
 
