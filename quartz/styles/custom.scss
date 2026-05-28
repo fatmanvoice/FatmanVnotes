@@ -1,35 +1,37 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
-
-// 胖市民專屬：霧面青瓷色 NOTE 區塊 (極簡原版還原)
+// 胖市民專屬：霧面青瓷色 NOTE 區塊
 .callout[data-callout="note"] {
-  // 1. 精準定義核心顏色變數為 150, 200, 200
   --color: rgb(150, 200, 200) !important;
-  
-  // 2. 底色使用極淡透明度 (0.05)，完美重現呼吸感
   background-color: rgba(150, 200, 200, 0.05) !important;
-  
-  // 3. 移除 Quartz 預設包圍的 1px 細邊框，還原開放感
   border: none !important;
 }
 
-
+// 版面保護機制：強制縮放 Obsidian 嵌入圖片與外層容器
 article {
-  // 1. 強制規範 Quartz 產生的圖片外層隱形容器 (這才是撐爆畫面的主因)
   span.internal-embed, 
   span.image-embed {
-    display: block !important;       // 強制轉為區塊元素才能被限制寬度
-    max-width: 100% !important;      // 絕對不允許超出螢幕
-    margin: 1.5rem auto !important;  // 上下留出呼吸空間，左右置中
-    text-align: center !important;   // 確保內部圖片置中
+    display: block !important;
+    max-width: 100% !important;
+    margin: 1.5rem auto !important;
+    text-align: center !important;
     box-sizing: border-box !important;
   }
 
+  span.internal-embed img,
+  p > img,
+  img {
+    max-width: 100% !important; 
+    width: auto !important; 
+    height: auto !important;
+    display: block !important; 
+    margin: 0 auto !important; 
+    box-sizing: border-box !important;
+  }
+}
 
+// 首頁設定
 [data-slug="index"] {
-  
-  // 隱藏灰色 Properties 表格、表頭屬性面板（把所有可能的命名一口氣封鎖）
   .properties,
   [class*="property"],
   [class*="meta-list"],
@@ -39,56 +41,36 @@ article {
   }
 }
 
-// 調整左側選單（Explorer）的字體大小與間距
+// 左側選單
 .explorer {
-  // 調整資料夾與筆記標題的字體大小（預設通常較大，這裡調成舒服的 0.95rem）
   font-size: 0.9rem !important;
-
-  // 調整目錄每一行之間的上下間距，讓它更有呼吸感
-  li {
-    margin: 4px 0 !important;
-  }
-
-  // 精準控制檔案名稱的字級（讓長檔名如預算案時間軸更不易斷行）
-  a {
-    font-size: 0.8rem !important;
-  }
+  li { margin: 4px 0 !important; }
+  a { font-size: 0.8rem !important; }
 }
 
-// 隱藏右側關係圖（Graph View）的預設文字標籤
+// 右側關係圖
 .graph-view text {
   display: none !important;
 }
 
-
-// 【終極修正】大目錄頁面 (Folder Page) 字體大小強制縮小
+// 大目錄頁面
 article.folder-page {
-  // 1. 強制把目錄頁面裡面的列表標題變小
   li.section-item {
-    margin: 0.8rem 0 !important; // 縮小上下行距
-    
+    margin: 0.8rem 0 !important; 
     .desc a {
-      font-size: 1.05rem !important; // 強制定死字級（原本大約有 1.5rem，這裡直接降下來）
+      font-size: 1.05rem !important; 
       font-weight: 500 !important;
     }
   }
-
-  // 2. 順便把目錄最上方的主要大標題（例如 a-constitutional）也縮小一點，更有層次
-  & > h1 {
-    font-size: 1.6rem !important;
-  }
+  & > h1 { font-size: 1.6rem !important; }
 }
 
-
-// 【全域優化】縮小網頁字體與行距，還原 Obsidian 的緊湊紮實感
+// 全域優化：還原 Obsidian 緊湊感
 article {
-  // 1. 基礎內文縮小，並把行距大幅收緊
   p, li, blockquote {
-    font-size: 0.95rem !important; // 縮小基礎字級
-    line-height: 1.55 !important;  // 收緊行距（預設通常在 1.7 以上，這裡壓低讓文字更聚攏）
+    font-size: 0.95rem !important;
+    line-height: 1.55 !important;
   }
-
-  // 2. 標題同步縮小，並減少標題上下的留白空白
   h1 { 
     font-size: 1.7rem !important; 
     margin-top: 1.5rem !important; 
@@ -103,18 +85,12 @@ article {
     font-size: 1.25rem !important; 
     margin-top: 1rem !important; 
   }
-
-  // 3. 提示區塊（Callout / 案件基本資訊）向內收緊，消除空曠感
   .callout {
-    padding: 0.8rem 1rem !important; // 縮小框框的內襯留白
-    
-    .callout-title {
-      font-size: 1rem !important; 
-    }
-    
+    padding: 0.8rem 1rem !important; 
+    .callout-title { font-size: 1rem !important; }
     .callout-content p, .callout-content li {
       font-size: 0.95rem !important;
-      line-height: 1.5 !important; // 讓框框內的條列式重點更緊密
+      line-height: 1.5 !important;
     }
   }
 }
