@@ -51,6 +51,4 @@ tags:
 
 ---
 
-![[icon.png|300]]
-
 —— 凹凸不平胖市民 [@fatmanvoice](https://linktr.ee/fatmanvoice) ⚜️圓桌
