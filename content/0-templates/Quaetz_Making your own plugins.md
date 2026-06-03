@@ -3,7 +3,6 @@ title: Making your own plugins
 draft: true
 ---
 
-
 # Making your own plugins
 
 May 24, 202618 min read

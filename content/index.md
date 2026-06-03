@@ -2,7 +2,7 @@
 title: 凹凸不平胖筆記
 description: 歡迎來到凹凸不平胖市民的胖筆記 讓我們一起向光前行
 draft: false
-date: 2026-05-29
+date: 2026-06-01
 socialImage: https://fatmanvoice.github.io/fatmanvnotes/static/og-image.png
 tags:
   - 事實查核
