@@ -214,7 +214,7 @@ tags:
 > 
 > - **備份檔連結：** https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000002
 >   
-> ![[2005_0610_the-amendment-of-the-constitution-of-the-republic-of-china.pdf]]
+> [[2005_0610_the-amendment-of-the-constitution-of-the-republic-of-china.pdf]]
 
 —— 凹凸不平胖市民 [@fatmanvoice](https://linktr.ee/fatmanvoice/) ⚜️圓桌
 

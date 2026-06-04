@@ -179,6 +179,8 @@ tags:
 > - 2026_0508_三班護病比三讀_民眾黨版表決結果(純淨版)
 >   
 >   ![[2026_0508_tpp-nurse-patient-ratio-vote.jpg]]
+>   
+> ***
 > 
 > - 2026_0508_護產會_聲明
 >   
@@ -191,10 +193,11 @@ tags:
 > - 2026_0509_護理師護士公會全聯會_闢謠圖卡
 >   
 >   ![[2026_0509_nurse-union-debunking-infographic.jpg]]
+>   
+> ***
 > 
 > - 2026_0515_總統公告醫療法修正案
->   
->   ![[2026_0515_medical-act-amendment-promulgated.pdf]]
+>   [[2026_0515_medical-act-amendment-promulgated.pdf]]
 >   
 
 (預留)

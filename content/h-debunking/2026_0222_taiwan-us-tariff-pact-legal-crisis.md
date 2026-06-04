@@ -204,8 +204,7 @@ tags:
 >    https://www.youtube.com/live/IalFLkyop_U
 > 
 > - 2025_0213_臺灣與美國間對等貿易協定-中文
->   
->   ![[2025_0213_taiwan-us-reciprocal-trade-agreement.pdf]]
+>   [[2025_0213_taiwan-us-reciprocal-trade-agreement.pdf]]
 >   
 
 (預留)

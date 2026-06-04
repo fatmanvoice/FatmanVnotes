@@ -187,14 +187,15 @@ tags:
 > 
 > ── 相關附件區 ──
 > 
-> - 2025_1127_行政院版強化防衛韌性及不對稱戰力計畫採購特別條例草案
->   
-> ![[2025_1127_executive-yuan-defense-procurement-draft.pdf]]
+> - 2025_1127_行政院版強化防衛韌性及不對稱戰力計畫採購特別條例草
+>   [[2025_1127_executive-yuan-defense-procurement-draft.pdf]]
 > 
 > ***
 > 
 > - 2025_1218_聯合報_美DSCA對台軍售內容
 >   
 > ![[2025_1218_dsca-taiwan-arms-sales-list.jpg]]
+> 
+> 
 
 (預留)

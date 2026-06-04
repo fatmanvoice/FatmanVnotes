@@ -180,7 +180,7 @@ tags:
 >![[2026_0601_drone-related-debunking-07.jpg]]
 >
 > - 2026_0224_行政院_公共工程委員會_無人機採購作業指引
-> ![[2026_0224_pcc-drone-procurement-guidelines.pdf]]
+>   [[2026_0224_pcc-drone-procurement-guidelines.pdf]]
 > 
 > 
 

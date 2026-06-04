@@ -162,9 +162,8 @@ tags:
 > 
 > ── 相關附件區 ──
 > 
-> 2024_0327_民眾黨版兩岸協議監督條例草案
-> 
-> ![[2024_0327_tpp-cross-strait-supervision-draft.pdf]]
+> - 2024_0327_民眾黨版兩岸協議監督條例草案
+>   [[2024_0327_tpp-cross-strait-supervision-draft.pdf]]
 > 
 > 
 

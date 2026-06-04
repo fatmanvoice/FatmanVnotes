@@ -131,8 +131,7 @@ tags:
 > ── 相關附件區 ──
 > 
 > - 2025_1226_行政院版社會秩序維護法修正草案
->   
-> ![[2025_1226_executive-yuan-social-order-act-draft.pdf]]
+>   [[2025_1226_executive-yuan-social-order-act-draft.pdf]]
 > 
 > 
 

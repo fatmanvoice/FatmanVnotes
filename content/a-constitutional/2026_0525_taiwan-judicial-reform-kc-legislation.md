@@ -180,8 +180,7 @@ tags:
 > ── 相關附件區 ──
 > 
 > - 2017_0908_總統府司法改革國是會議成果報告
->   
-> [[2017_0908_judicial-reform-conclusions-report.pdf]]
+>   [[2017_0908_judicial-reform-conclusions-report.pdf]]
 > 
 
 (預留)

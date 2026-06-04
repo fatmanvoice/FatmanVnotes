@@ -270,7 +270,7 @@ tags:
 > ── 相關附件區 ──
 > 
 > - 2026_0410-臺灣臺北地方法院113年度金訴字第51號刑事判決書全文(一審)
-> ![[2026_0410-ko-case-first-instance-court-verdict-391p.pdf]]
+>   [[2026_0410-ko-case-first-instance-court-verdict-391p.pdf]]
 > 
 > 
 

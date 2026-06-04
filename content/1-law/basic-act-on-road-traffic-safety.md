@@ -166,7 +166,7 @@ tags:
 > 
 > - **備份檔連結：**[道路交通安全基本法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0040079&kw=%e4%ba%a4%e9%80%9a%e5%9f%ba%e6%9c%ac%e6%b3%95)
 > 
-> ![[2023_1215_basic-act-on-road-traffic-safety.pdf]]
+> [[2023_1215_basic-act-on-road-traffic-safety.pdf]]
 
 
 —— 凹凸不平胖市民 [@fatmanvoice](https://linktr.ee/fatmanvoice/) ⚜️圓桌

@@ -138,7 +138,7 @@ tags:
 > ── 相關附件區 ──
 > 
 > - 2026_0130_民眾黨版保衛國家安全及強化不對稱戰力計畫採購特別條例草案
->   ![[2026_0130_tpp-defense-special-act-draft.pdf]]
+>   [[2026_0130_tpp-defense-special-act-draft.pdf]]
 >   
 
 (預留)

@@ -143,7 +143,7 @@ tags:
 > 
 > - 2026_0108_民眾黨版人工生殖法再修正動議全文
 >   
-> ![[2026_0108_tpp-assisted-reproduction-amendment.pdf]]
+> [[2026_0108_tpp-assisted-reproduction-amendment.pdf]]
 > 
 
 (預留)

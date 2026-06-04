@@ -141,7 +141,7 @@ tags:
 > ── 相關附件區 ──
 > 
 > - 2026_0116_民眾黨國民黨版115年度預算中具有急迫性及攸關重大民生之新興資本支出及新增計畫先行動支案
-> ![[2026_0116_urgent-public-livelihood-budget-plan.pdf]]
+> [[2026_0116_urgent-public-livelihood-budget-plan.pdf]]
 > 
 
 (預留)

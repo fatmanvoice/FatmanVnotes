@@ -150,8 +150,7 @@ tags:
 > 
 > ── 相關附件區 ──
 > - 2026_0508_各黨團版醫療法再修正動議(完整條文)
->   
-> ![[2026_0508_medical-act-amendment-comparison.pdf]]
+>   [[2026_0508_medical-act-amendment-comparison.pdf]]
 > 
 
 (預留)

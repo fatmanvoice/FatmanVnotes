@@ -197,12 +197,10 @@ tags:
 > ── 相關附件區 ──
 > 
 > - 2025_0430_民眾黨版醫療法第12條、第102條、第102-1條草案
->   
->   ![[2025_0430_tpp-medical-care-act-draft-12_102_102-1.pdf]]
+>   [[2025_0430_tpp-medical-care-act-draft-12_102_102-1.pdf]]
 > 
 > - 2026_0320_民眾黨版醫療第24條、第106條草案
->   
->   ![[2026_0320_tpp-medical-care-act-draft-24_106.pdf]]
+>   [[2026_0320_tpp-medical-care-act-draft-24_106.pdf]]
 > 
 
 (預留)
