@@ -3,7 +3,7 @@ aliases: 人本交通
 title: 人本交通
 description: 人本交通
 draft: false
-date: 1970-01-01
+date: 1972-01-01
 tags:
   - 人本交通零死亡
   - 人本交通
