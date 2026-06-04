@@ -167,9 +167,13 @@ tags:
 > 
 > - 【國昌直播】來看看我上週在做什麼_0601
 >   https://www.youtube.com/live/yr_1RJHW3r8
+>   
+> ***
 > 
 > - 【直播】「假需求、真撒錢」無人機慘淪預算提款機 記者會
 >   https://www.youtube.com/live/wHPGt0M0t20
+>   
+> ***
 > 
 > - 行政院-無人載具產業發展統籌型計畫(442億)
 >   https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/97980e62-02ab-4c1f-b727-c51233e2ffc2
@@ -178,6 +182,8 @@ tags:
 > 
 > - 2026_0601_無人機相關闢謠07
 >![[2026_0601_drone-related-debunking-07.jpg]]
+>
+>***
 >
 > - 2026_0224_行政院_公共工程委員會_無人機採購作業指引
 >   [[2026_0224_pcc-drone-procurement-guidelines.pdf]]

@@ -108,6 +108,8 @@ tags:
  
  2026.3.20 蘇酥
 
+![[2014_0319_sunflower-movement-12th-anniversary.jpg]]
+
 —————————
 
 —— 凹凸不平胖市民 [@fatmanvoice](https://linktr.ee/fatmanvoice) ⚜️圓桌
@@ -118,7 +120,7 @@ tags:
 
 > [!quote] ⚖️ 本文參考法規原文
 > 
-> 📜 **主要核心法規：** [[立法院職權行使法]] 第 61 條
+> 📜 **主要核心法規：** [[law-governing-the-legislative-yuans-power|立法院職權行使法]] 第 61 條
 > 
 > 各委員會審查行政命令，應於院會交付審查後三個月內完成之；逾期未完成者，視為已經審查。但有特殊情形者，得經院會同意後展延；展延以一次為限。前項期間，應扣除休會期日。
 > 
@@ -144,20 +146,24 @@ tags:
 > 
 > - 2014 行政院版（臺灣地區與大陸地區訂定協議處理及監督條例草案）
 >   https://billy3321.github.io/trade_act_qa/government.html
->     
+> 
 > - 2014 民間版（兩岸協定締結條例草案）
 >   https://billy3321.github.io/trade_act_qa/people.html
->     
+>   
+> ***
+> 
 > - 【國昌質詢】騙局一場的兩岸協議監督條例｜2024-12-04｜內政委員會
 > https://youtu.be/LEa5OOkEdJY
 > 
 > - 黃國昌國會質詢2019-3-27 【兩岸協議監督條例法制化 強化違法中資侵台處罰】內政委員會
 >   https://youtu.be/oh6666EomGg
 >   
+> ***
+> 
 > - 洛狗：太陽花的訴求現在怎麼了？
 >   https://youtu.be/GDxIunabkms
 > 
-> - 太陽花12周年：全網最詳細！帶你重新認識服貿、太陽花 和最新的立法進度！一起唱島嶼天光😭🙏🙏🙏
+> - 太陽花12周年：全網最詳細！帶你重新認識服貿、太陽花 和最新的立法進度！一起唱島嶼天光
 >   https://youtu.be/gqd2YUjFXJQ
 > 
 > ── 相關附件區 ──

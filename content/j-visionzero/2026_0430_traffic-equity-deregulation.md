@@ -102,7 +102,7 @@ tags:
 
 💡 法定的清理義務（第 27 條）：基本法第 27 條明確規定：本法施行後，各級政府應依本法之規定修正、廢止或制（訂）定相關法規。這要求各級政府必須檢討調整如 [[regulations-governing-road-traffic-safety|道路交通安全規則]] 第 99 條中，那些不符人本原則或存在車種歧視的條文。
 
-- 確立人本交通之最高原則（第 2 條）：基本法第 2 條要求政府應建立以人為本、傷害最低、公共運輸優先的用路環境及文化，翻轉了過往長期以汽車效率為核心的車本思維。
+- 確立[[humanity-oriented-traffic|人本交通]]之最高原則（第 2 條）：基本法第 2 條要求政府應建立以人為本、傷害最低、公共運輸優先的用路環境及文化，翻轉了過往長期以汽車效率為核心的車本思維。
  
 - 層級提升與責任歸屬（第 21 條）：基本法規定行政院長必須親自擔任中央道路交通安全會報的召集人，這打破了過去部會間權責破碎、互相推諉的困境。
 
@@ -147,6 +147,8 @@ tags:
 > - 內政部國土署人本交通手冊第二版
 >   https://myway.nlma.gov.tw/content/F_download_1.php?cate=2&p=0
 > 
+> ***
+> 
 > - 台灣機車路權促進會
 >   https://www.facebook.com/TaiwanMotorcycle/?locale=zh_TW
 > 
@@ -158,15 +160,11 @@ tags:
 > 
 > ── 相關附件區 ──
 > 
-> 
 > - 取消兩段式左轉降低交通事故
-> 
-> ![[2026_0430_abolish-two-stage-left-turn-safety.jpg]]
-> 
+>   ![[2026_0430_abolish-two-stage-left-turn-safety.jpg]]
 > 
 > - 封閉道路與開放道路的機車傷亡率
-> 
-> ![[2026_0430_road-closure-motorcycle-casualty-rates.jpg]]
+>   ![[2026_0430_road-closure-motorcycle-casualty-rates.jpg]]
 > 
 
 (預留)

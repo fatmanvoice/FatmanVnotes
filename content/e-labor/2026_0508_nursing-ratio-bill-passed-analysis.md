@@ -146,7 +146,17 @@ tags:
 > ── 延伸閱讀區 ──
 > 
 > - 5/5 民眾黨立法委員邱慧洳召開之護理公聽會
->   https://www.youtube.com/live/EXMXijyzj_o?si=Q-YBDMDH_5Qbj1j5
+>   https://www.youtube.com/live/EXMXijyzj_o
+>   
+> ***
+> 
+> - 轉播院會 2026.05.08 院會-三班護病比三讀｜立法委員上班日
+>   https://www.youtube.com/live/BFPpyEjy6vw
+>   
+> ***
+> 
+> - 轉播院會 2026.05.08 下午場 院會-三班護病比三讀+軍購案｜立法委員上班日
+>   https://www.youtube.com/live/G_Z9vxFHW3Q
 > 
 > ── 相關附件區 ──
 > - 2026_0508_各黨團版醫療法再修正動議(完整條文)

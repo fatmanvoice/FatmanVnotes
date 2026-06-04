@@ -128,29 +128,30 @@ tags:
 > 
 > ── 延伸閱讀區 ──
 > 
-> 
+> - 自由貿易示範區下從邊陲到節點的金門抉擇
+>   https://www.kmdn.gov.tw/1117/1271/1273/584307/
 > 
 > ── 相關附件區 ──
 > 
-> - 2026_0508_陳玉珍版逕付二讀
->   
-> ![[2026_0508_chen-yu-chen-offshore-islands-act-draft.jpg]]
+> - 2026_0508 陳玉珍版逕付二讀
+>   ![[2026_0508_chen-yu-chen-offshore-islands-act-draft.jpg]]
 > 
 > - 離島建設條例草案第18-3條、第18-4條
->   
-> ![[2026_0513_offshore-islands-act_18-3_18-4.jpg]]
-> 
-> - 兩岸人民關係條例第72條、第73條
->   
-> ![[2026_0513_cross-strait-act-articles_72_73.jpg]]
-> 
-> - 離島建設條例草案第13-1條、第13-2條
->   
-> ![[2026_0513_offshore-islands-act_13-1_13-2.jpg]]
+>   ![[2026_0513_offshore-islands-act_18-3_18-4.jpg]]
 > 
 > ***
 > 
-> - 2026_0506_陳玉珍版離島建設條例部分條文修正草案
+> - 兩岸人民關係條例第72條、第73條
+>   ![[2026_0513_cross-strait-act-articles_72_73.jpg]]
+> 
+> ***
+> 
+> - 離島建設條例草案第13-1條、第13-2條
+>   ![[2026_0513_offshore-islands-act_13-1_13-2.jpg]]
+> 
+> ***
+> 
+> - 2026_0506 陳玉珍版離島建設條例部分條文修正草案
 >   [[2026_0506_chen-yu-chen-offshore-islands-act-draft.pdf]]
 > 
 

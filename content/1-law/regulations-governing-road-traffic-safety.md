@@ -10,7 +10,7 @@ tags:
   - 用路規則
 ---
 
-# ⚖️ [[regulations-governing-road-traffic-safety|道路交通安全規則]]
+# ⚖️ 道路交通安全規則
 
 > [!abstract] 📊 法規基本資訊
 > 
@@ -2805,8 +2805,8 @@ tags:
 
 > [!info] 📄 原始檔案備份
 > 
-> - **備份檔連結：** https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0040013
->     
+> - **備份檔連結：**  [道路交通安全規則](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0040013)
+> 
 
 —— 凹凸不平胖市民 [@fatmanvoice](https://linktr.ee/fatmanvoice/) ⚜️圓桌
 

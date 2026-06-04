@@ -10,7 +10,7 @@ tags:
   - 人民權利
 ---
 
-# ⚖️ [[the-constitution-of-the-republic-of-china|中華民國憲法]]
+# ⚖️ 中華民國憲法
 
 > [!abstract] 📊 法規基本資訊
 > 
@@ -1045,9 +1045,9 @@ tags:
 
 > [!info] 📄 原始檔案備份
 > 
-> - **備份檔連結：** https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000001
->   
-> [[1947_0101_the-constitution-of-the-republic-of-china.pdf]]
+> - **備份檔連結：** [中華民國憲法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000001)
+>   [[1947_0101_the-constitution-of-the-republic-of-china.pdf]]
+> 
 
 —— 凹凸不平胖市民 [@fatmanvoice](https://linktr.ee/fatmanvoice/) ⚜️圓桌
 

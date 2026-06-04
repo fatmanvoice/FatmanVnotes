@@ -197,9 +197,13 @@ tags:
 > 
 > - 行政院〈二二八事件研究報告〉（1992）
 >   https://www.228.org.tw/incident-research1
+>   
+> ***
 > 
 > - 二二八基金會《責任歸屬研究報告》（2006）
 >   https://www.228.org.tw/incident-research2
+> 
+> ***
 > 
 > - 《臺灣省行政長官公署清鄉工作報告》
 > 
@@ -212,39 +216,38 @@ tags:
 > 
 > - 國史館檔案
 >   https://aa.archives.gov.tw/ELK/SearchDetailed?FullPath=A202010000A/0036/041/2
+>   
+> ***
 > 
 > - 中央研究院近史所檔案
-> - 二二八外省籍死傷統計_1
 >   
-> ![[2026_0303_228-1.jpg]]
+> - 二二八外省籍死傷統計1
+>   ![[2026_0303_228-1.jpg]]
 > 
-> - 二二八外省籍死傷統計_2
->   
-> ![[2026_0303_228-2.jpg]]
+> - 二二八外省籍死傷統計2
+>   ![[2026_0303_228-2.jpg]]
 > 
-> - 二二八外省籍死傷統計_3
->   
-> ![[2026_0303_228-3.jpg]]
+> - 二二八外省籍死傷統計3
+>   ![[2026_0303_228-3.jpg]]
 > 
 > - 二二八後收繳武器統計
->   
-> ![[2026_0303_229-weapon.jpg]]
+>   ![[2026_0303_229-weapon.jpg]]
 > 
 > - 二二八相關公文
->   
-> ![[2026_0303_229-official-documents.jpg]]
+>   ![[2026_0303_229-official-documents.jpg]]
+> 
+> ***
 > 
 > - 蔣中正公文
->   
-> ![[2026_0303_chiang-kai-shek-official-document.jpg]]
+>   ![[2026_0303_chiang-kai-shek-official-document.jpg]]
 > 
 > - 蔣中正手稿
->   
-> ![[2026_0303_chiang-kai-shek-manuscript.jpg]]
+>   ![[2026_0303_chiang-kai-shek-manuscript.jpg]]
+> 
+> ***
 > 
 > - 嚴家淦台中遇暴動公文
->   
-> ![[2026_0303_yen-chia-kan-taichung-riot-doc.jpg]]
+>   ![[2026_0303_yen-chia-kan-taichung-riot-doc.jpg]]
 > 
 
 (預留)

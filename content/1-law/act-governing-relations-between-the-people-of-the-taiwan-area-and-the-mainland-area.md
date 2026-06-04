@@ -10,7 +10,7 @@ tags:
   - 兩岸關係
 ---
 
-# ⚖️ [[act-governing-relations-between-the-people-of-the-taiwan-area-and-the-mainland-area|臺灣地區與大陸地區人民關係條例]]
+# ⚖️ 臺灣地區與大陸地區人民關係條例
 
 > [!abstract] 📊 法規基本資訊
 > 
@@ -874,7 +874,7 @@ tags:
 
 > [!info] 📄 原始檔案備份
 > 
-> - **備份檔連結：** https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=Q0010001
+> - **備份檔連結：** [臺灣地區與大陸地區人民關係條例](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=Q0010001)
 > 
 
 —— 凹凸不平胖市民 [@fatmanvoice](https://linktr.ee/fatmanvoice/) ⚜️圓桌

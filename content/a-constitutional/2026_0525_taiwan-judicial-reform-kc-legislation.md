@@ -175,7 +175,7 @@ tags:
 > ── 延伸閱讀區 ──
 > 
 > - 2026_0524_【直播】當權力失去監督 司法改革的下一步 論壇
-> https://www.youtube.com/live/8yp7WY6d9sM?si=e_Hb07xvhz9-oQQW
+> https://www.youtube.com/live/8yp7WY6d9sM
 > 
 > ── 相關附件區 ──
 > 

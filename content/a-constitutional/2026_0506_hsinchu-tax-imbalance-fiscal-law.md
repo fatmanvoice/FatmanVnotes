@@ -173,8 +173,7 @@ tags:
 > ── 相關附件區 ──
 > 
 > - 財政收支劃分法第16-1條、第30條
->   
-> ![[2026_0506_fisc-revenue-act-articles_16-1_30.jpg]]
+>   ![[2026_0506_fisc-revenue-act-articles_16-1_30.jpg]]
 > 
 
 (預留)

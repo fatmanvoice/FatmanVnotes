@@ -182,14 +182,12 @@ tags:
 > ── 延伸閱讀區 ──
 > 
 > - 1/30 表決當天的立院直播：
-> https://www.youtube.com/live/IqlFK_FCfN4?si=0tw4l7VjN9V5uhY1
+> https://www.youtube.com/live/IqlFK_FCfN4
 > 
 > ── 相關附件區 ──
 > - 1/30助理費法制化表決
->   
-> ![[2026_0130_assistant-salary-legalization-vote1.jpg]]
-> 
-> ![[2026_0130_assistant-salary-legalization-vote2.jpg]]
+>   ![[2026_0130_assistant-salary-legalization-vote1.jpg]]
+>   ![[2026_0130_assistant-salary-legalization-vote2.jpg]]
 > 
 
 (預留)

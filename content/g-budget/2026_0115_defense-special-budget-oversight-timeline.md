@@ -89,7 +89,7 @@ tags:
 > 
 > 📜 **主要核心法規：** [[2025_1127_行政院版強化防衛韌性及不對稱戰力計畫採購特別條例草案]] 第 5 條
 > 
-> 本條例所需經費上限為新臺幣一兆二千五百億元，以特別預算方式編列，其預算編製不受預算法第二十三條不得充經常支出規定之限制。但經費額度因匯率變動影響超過上限部分，得以總預算方式編列。
+> 本條例所需經費上限為新臺幣一兆二千五百億元，以特別預算方式編列，其預算編製不受[[budget-act|預算法]]第二十三條不得充經常支出規定之限制。但經費額度因匯率變動影響超過上限部分，得以總預算方式編列。
 > 
 > 前項所需經費來源，得以移用以前年度歲計賸餘或舉借債務方式辦理；其以特別預算方式編列之每年度舉借債務額度，不受公共債務法第五條第七項規定之限制。中央政府總預算及特別預算於本條例施行期間之舉債額度合計數，不得超過 該期間總預算及特別預算歲出總額合計數之 百分之十五 。
 > 
@@ -110,19 +110,16 @@ tags:
 > ── 延伸閱讀區 ──
 > 
 > 韌性特別條例表決： 
-> https://www.youtube.com/live/PrksxVaX20A?si=rGlbFijaNRBZL8P0
+> https://www.youtube.com/live/PrksxVaX20A
 > 
-> https://www.youtube.com/live/rDSYWY1nrKw?si=2tiGYqRVIoZNc1as
+> https://www.youtube.com/live/rDSYWY1nrKw
 > 
 > ── 相關附件區 ──
 > - 歷年的國防特別預算案金額統計圖
->   
-> ![[2026_0115_taiwan-defense-special-budget-list.jpg]]
+>   ![[2026_0115_taiwan-defense-special-budget-list.jpg]]
 > 
 >  - 2025_1126_總統投書華盛頓郵報強調提升國防預算以捍衛臺灣民主
->    
 >    ![[2025_1126_president-washington-post-op-ed1.jpg]]
->    
 >    ![[2025_1126_president-washington-post-op-ed2.jpg]]
 >    
 

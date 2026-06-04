@@ -221,6 +221,20 @@ tags:
 
 在法律面上，20% 容獎具有都計法源依據；在金流面上，1500 萬缺乏實質證據；在所有權面上，政治獻金不構成侵占。然此案在程序上的種種違失，已使司法信任度嚴重受損。京華城案具有法源基礎且程序完備，政治獻金運用屬合法財產處分或正常商業運作。在 1,500 萬元收賄指控因證據不足被法院排除的基礎下，其餘罪名多仰賴受污染之筆錄與推論，被告無犯罪故意，一審判決應被推翻。
 
+***
+
+## [[gem-ko-case|京華城案解析：法理結構與邏輯解析系統]]
+
+GEM連結：
+
+https://gemini.google.com/gem/cd41a7b7a87d?usp=sharing
+
+GEM使用教學：
+
+1. 點擊連結進到 Gemini 畫面（如果手機介面問題可以把網址貼到你常用的瀏覽器）
+2. 登入Google 綁定你的 Gemini 才能使用（使用你自己的Ai額度，我們不會收到你的任何資料）
+3. 畫面會顯示「⚖️京華城…」就表示進入成功（可以隨意提問你想問的！）
+
 —————————
 
 —— 凹凸不平胖市民 [@fatmanvoice](https://linktr.ee/fatmanvoice) ⚜️圓桌
@@ -306,28 +320,26 @@ tags:
 > ── 相關附件區 ──
 > 
 > - 刑事訴訟法95條
->   
-> ![[2026_0409_code-of-criminal-procedure_95.jpg]]
+>   ![[2026_0409_code-of-criminal-procedure_95.jpg]]
 > 
 > - 刑事訴訟法166-7條
->   
-> ![[2026_0409_code-of-criminal-procedure_166-7.jpg]]
+>   ![[2026_0409_code-of-criminal-procedure_166-7.jpg]]
 > 
 > - 刑事訴訟法180條
->   
-> ![[2026_0409_code-of-criminal-procedure_180.jpg]]
+>   ![[2026_0409_code-of-criminal-procedure_180.jpg]]
+> 
+> ***
 > 
 > - 財團法人法第21條
->   
-> ![[2026_0409_foundation-act-article_21.jpg]]
+>   ![[2026_0409_foundation-act-article_21.jpg]]
+> 
+> ***
 > 
 > - 證據_木可小物是商業收入有開發票
->   
-> ![[2026_0409_muko-business-revenue-invoices.jpg]]
+>   ![[2026_0409_muko-business-revenue-invoices.jpg]]
 > 
 > - 證據_KP SHOW是商業收入含娛樂稅
->   
-> ![[2026_0409_kp-show-commercial-revenue-tax.jpg]]
+>   ![[2026_0409_kp-show-commercial-revenue-tax.jpg]]
 > 
 > 
 

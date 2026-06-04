@@ -10,7 +10,7 @@ tags:
   - 國家體制
 ---
 
-# ⚖️ [[the-amendment-of-the-constitution-of-the-republic-of-china|中華民國憲法增修條文]]
+# ⚖️ 中華民國憲法增修條文
 
 > [!abstract] 📊 法規基本資訊
 > 
@@ -212,9 +212,9 @@ tags:
 
 > [!info] 📄 原始檔案備份
 > 
-> - **備份檔連結：** https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000002
->   
-> [[2005_0610_the-amendment-of-the-constitution-of-the-republic-of-china.pdf]]
+> - **備份檔連結：** [中華民國憲法增修條文](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000002)
+>   [[2005_0610_the-amendment-of-the-constitution-of-the-republic-of-china.pdf]]
+> 
 
 —— 凹凸不平胖市民 [@fatmanvoice](https://linktr.ee/fatmanvoice/) ⚜️圓桌
 

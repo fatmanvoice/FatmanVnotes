@@ -191,17 +191,21 @@ tags:
 > ── 延伸閱讀區 ──
 > 
 > - 美國《國際緊急經濟權力法》（IEEPA, 50 U.S.C. §1702）
+>   https://www.cbp.gov/trade/programs-administration/trade-remedies/ieepa-duty-refunds
 > 
 > - 美國憲法第一條第八項
+> 
+> ***
 > 
 > - 2026_0220_美國最高法院判決（Learning Resources, Inc. v. Trump）
 >   https://www.supremecourt.gov/opinions/25pdf/24-1287_4gcj.pdf?ref=levernews.com
 > 
+> ***
+> - 【國昌直播】看看(我在)開工做什麼_022：
+>    https://www.youtube.com/live/IalFLkyop_U
 > 
 > ── 相關附件區 ──
 > 
-> - 【國昌直播】看看(我在)開工做什麼_022：
->    https://www.youtube.com/live/IalFLkyop_U
 > 
 > - 2025_0213_臺灣與美國間對等貿易協定-中文
 >   [[2025_0213_taiwan-us-reciprocal-trade-agreement.pdf]]

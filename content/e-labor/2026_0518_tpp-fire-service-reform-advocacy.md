@@ -138,6 +138,8 @@ tags:
 > - 消防權益公聽會
 > https://www.youtube.com/watch?v=Y4b0ye3TQ4o
 > 
+> ***
+> 
 > - 消防法三讀居然要五年後實施
 > https://www.youtube.com/watch?v=2DobRtX9rHM
 > 

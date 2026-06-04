@@ -145,9 +145,10 @@ tags:
 > ── 延伸閱讀區 ──
 > 
 > - 美憲法之父麥迪遜說：「野心須用野心對抗。」 當在台灣總統=政院=大法官，立院的卡關便非刁難，而是僅存的制衡。 一旦提名淪為政治劇碼，拒絕溝通才是憲政最大破口。
+>   
+> ***
 > 
 > - 2025_1222_Seth_憲政卡關 誰的責任
->   
 >   ![[2025_1222_seth-constitutional-stalemate-accountability.jpg]]
 >   
 >   https://www.threads.com/@seth.hsu/post/DSjPPf8EhVj

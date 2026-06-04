@@ -89,6 +89,20 @@ tags:
 
 行政院版的修法像是在既有體制上「修修補補」，雖開了一扇門，卻對代孕族群設下了「施行日期另定」的行政路障；而民眾黨版則是直接依憲法原則，蓋好一座全方位的法治堡壘。透過強制公證、重啟評估與明確記載姓名，民眾黨版在賦予多元族群「平等成家權」的同時，也建構了比院版更細緻、更具實務操作性的子女保障機制。
 
+***
+
+## [[gem-assisted-reproduction-surrogacy|代孕法規與QA]]
+
+GEM連結：
+
+https://gemini.google.com/gem/9d1cdfd95797?usp=sharing
+
+GEM使用教學：
+
+1. 點擊連結進到 Gemini 畫面（如果手機介面問題可以把網址貼到你常用的瀏覽器）
+2. 登入Google 綁定你的 Gemini 才能使用（使用你自己的Ai額度，我們不會收到你的任何資料）
+3. 畫面會顯示「🤰代孕法規與QA…」就表示進入成功（可以隨意提問你想問的！）
+   
 —————————
 
 —— 凹凸不平胖市民 [@fatmanvoice](https://linktr.ee/fatmanvoice) ⚜️圓桌
@@ -136,14 +150,12 @@ tags:
 > ***
 >   
 > - 2026_0108_民眾黨版人工生殖法再修正動議第18-1條
->   
 >   ![[2026_0108_tpp-assisted-reproduction-amendment_18-1.jpg]]
 > 
 > ── 相關附件區 ──
 > 
 > - 2026_0108_民眾黨版人工生殖法再修正動議全文
->   
-> [[2026_0108_tpp-assisted-reproduction-amendment.pdf]]
+>   [[2026_0108_tpp-assisted-reproduction-amendment.pdf]]
 > 
 
 (預留)

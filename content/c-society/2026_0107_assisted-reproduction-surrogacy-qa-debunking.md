@@ -60,7 +60,7 @@ tags:
 
 ## 衛環委員會審查人工生殖法
 
-明天 (1/8) 就要排審人工生殖法了，網路上正反討論很激烈，我也看到了很多質疑與造謠，但其實我們台灣民眾黨在 2024 年提出的草案早有解答，以下整理被問到最多次的五大QA：
+明天 (1/8) 就要排審 [[人工生殖法]]了，網路上正反討論很激烈，我也看到了很多質疑與造謠，但其實我們台灣民眾黨在 2024 年提出的草案早有解答，以下整理被問到最多次的五大QA：
 
 ### 五大QA：
 
@@ -116,10 +116,10 @@ tags:
 ***
 ### 繼續針對民眾黨版人工生殖法再修正動議的闢謠
 
-### 🚫造謠原文：沈柏洋
+### 🚫造謠原文：沈伯洋
 
 > [!warning] 
-> 沈柏洋
+> 沈伯洋
 > 2026/1/8
 > 
 > 我今天在立法院發言時提到，我由衷認為，代孕制度不僅僅在國外問題重重，它在台灣更不合適。
@@ -178,6 +178,20 @@ tags:
 
 民眾黨版本已經建立了這麼多保障，沈委員卻把「守護權利」解讀成「買賣風險」。這對無子宮婦女和同性伴侶來說，情何以堪？
 
+***
+
+## [[gem-assisted-reproduction-surrogacy|代孕法規與QA]]
+
+GEM連結：
+
+https://gemini.google.com/gem/9d1cdfd95797?usp=sharing
+
+GEM使用教學：
+
+1. 點擊連結進到 Gemini 畫面（如果手機介面問題可以把網址貼到你常用的瀏覽器）
+2. 登入Google 綁定你的 Gemini 才能使用（使用你自己的Ai額度，我們不會收到你的任何資料）
+3. 畫面會顯示「🤰代孕法規與QA…」就表示進入成功（可以隨意提問你想問的！）
+
 —————————
 
 —— 凹凸不平胖市民 [@fatmanvoice](https://linktr.ee/fatmanvoice) ⚜️圓桌
@@ -200,34 +214,27 @@ tags:
 > 
 > 🔗 **立法院議事暨公報資訊網：** https://ppg.ly.gov.tw/ppg/
 > 
-> 🎥 **1/8 衛環委員會直播：** https://www.youtube.com/live/V578b5A2FdI?si=rKtOnu-jTDL5Nxrg
+> 🎥 **1/8 衛環委員會直播：** https://www.youtube.com/live/V578b5A2FdI
 > 
 > ── 延伸閱讀區 ──
 > 
-> - 夥伴 [@seth.hsu](https://www.threads.com/@seth.hsu/post/DTVv73ckppn?xmt=AQG0YT8uVbP5YVByr8-qUYvK_-529kWe4GzUAl3fSjJbWA) 
->   整理之代孕法理GEM Ai
->   https://gemini.google.com/gem/9d1cdfd95797?usp=sharing
-> 
-> GEM使用教學：
->1. 點擊連結進到 Gemini 畫面
->2. 登入Google 綁定你的 Gemini 才能使用
->3. 畫面會顯示「⚖️京華城…」就表示進入成功
->隨意提問你想問的！
-> 
-> ── 相關附件區 ──
-> - 2024_0403_民眾黨版人工生殖法修正草案
->   [[2024_0403_tpp-assisted-reproduction-act-draft.pdf]]
-> 
+> - 不孕者的心聲：我值得擁有幸福嗎？ 前進立法院公聽會 | 我支持反對意見但是... | 小嫻 黃瑜嫻
+>   https://youtu.be/0qJnDkdq2G0
+>   
 > ***
 > 
 > - 首位公開受訪的台籍代理孕母Lily：走過生產鬼門關，不後悔幫助求子的父母
 > https://www.twreporter.org/a/interview-taiwanese-surrogate-mother-lily
 > 
+> ── 相關附件區 ──
+> 
+> - 2024_0403_民眾黨版人工生殖法修正草案
+>   [[2024_0403_tpp-assisted-reproduction-act-draft.pdf]]
+> 
 > ***
 > 
-> - 沈柏洋惡意造謠抹黑原文
->   
-> ![[2026_0108_shen-puma-malicious-disinformation.jpg]]
+> - 沈伯洋惡意造謠抹黑原文 2026_0108
+>   ![[2026_0108_shen-puma-malicious-disinformation.jpg]]
 > 
 
 (預留)

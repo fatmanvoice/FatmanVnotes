@@ -143,9 +143,9 @@ tags:
 
 > [!info] 🎥 本文參考影音與文獻
 > 
-> 🔗 **立法院議事暨公報資訊網：** [https://ppg.ly.gov.tw/ppg/](https://gemini.google.com/gems/edit/40caf60ef065)
+> 🔗 **立法院議事暨公報資訊網：** https://ppg.ly.gov.tw/ppg/
 > 
-> 🎥 **國會 ivod 直播：** [https://ivod.ly.gov.tw/](https://gemini.google.com/gems/edit/40caf60ef065)
+> 🎥 **國會 ivod 直播：** https://ivod.ly.gov.tw/
 > 
 > ── 延伸閱讀區 ──
 > 

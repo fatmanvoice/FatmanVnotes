@@ -69,6 +69,21 @@ tags:
    
    這種「利用別人」的說法在法律上站不住腳。[[2026_0108_民眾黨版人工生殖法再修正動議]]第 18 條之 4 保障代孕者的隱私權與身體自主權，甚至第 18 條之 10 規定，若危害生命健康，代孕者可自願流產且無需委託者同意，這才是法治對個體的尊嚴保障。
    
+***
+
+## [[gem-assisted-reproduction-surrogacy|代孕法規與QA]]
+
+GEM連結：
+
+https://gemini.google.com/gem/9d1cdfd95797?usp=sharing
+
+GEM使用教學：
+
+1. 點擊連結進到 Gemini 畫面（如果手機介面問題可以把網址貼到你常用的瀏覽器）
+2. 登入Google 綁定你的 Gemini 才能使用（使用你自己的Ai額度，我們不會收到你的任何資料）
+3. 畫面會顯示「🤰代孕法規與QA…」就表示進入成功（可以隨意提問你想問的！）
+   
+   
 —————————
 
 —— 凹凸不平胖市民 [@fatmanvoice](https://linktr.ee/fatmanvoice) ⚜️圓桌
@@ -103,9 +118,8 @@ tags:
 >   https://www.twreporter.org/a/interview-taiwanese-surrogate-mother-lily
 > 
 > ── 相關附件區 ──
-> - 賴品妤惡意抹黑原文
->   
-> ![[2026_0110_lai-pin-yu-malicious-disinformation.jpg]]
+> - 賴品妤惡意抹黑原文 2026_0110
+>   ![[2026_0110_lai-pin-yu-malicious-disinformation.jpg]]
 > 
 
 (預留)

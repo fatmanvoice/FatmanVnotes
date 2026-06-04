@@ -318,7 +318,7 @@ PS.凍結案已於2025年5月底全數解凍完成。
 > 
 > ── 延伸閱讀區 ──
 > - 【國昌質詢】被害人的眼淚｜2024-10-23｜司法及法制委員會
-> https://youtu.be/dmhYJG3CbxE?si=fFF388SSzLnz-Y5G
+> https://youtu.be/dmhYJG3CbxE
 > 
 > ── 相關附件區 ──
 > 

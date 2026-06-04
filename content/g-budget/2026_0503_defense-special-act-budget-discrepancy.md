@@ -135,25 +135,25 @@ tags:
 > - 本文參考：台灣招標採購網 標案追蹤管理系統
 >   https://app.acebidx.com
 > 
+> ***
+> 
 > - 【國昌直播】來看看我上週在做什麼_0427
->   https://www.youtube.com/live/g1yJW7Oh7jU?si=mz7Iq0CrCDy8YdJF
+>   https://www.youtube.com/live/g1yJW7Oh7jU
 > 
 > 
 > ── 相關附件區 ──
 > 
 > - 2025_1218_聯合報_美DSCA對台軍售內容
->   
-> ![[2025_1218_dsca-taiwan-arms-sales-list.jpg]]
+>   ![[2025_1218_dsca-taiwan-arms-sales-list.jpg]]
 > 
-> - 2026_0503_ACE結標公告1到4
->   
-> ![[2026_0503_ace-exchange-bidding-notice1.jpg]]
-> 
-> ![[2026_0503_ace-exchange-bidding-notice2.jpg]]
-> 
-> ![[2026_0503_ace-exchange-bidding-notice3.jpg]]
-> 
-> ![[2026_0503_ace-exchange-bidding-notice4.jpg]]
+> - 2026_0503 ACE結標公告1到4
+>   ![[2026_0503_ace-exchange-bidding-notice1.jpg]]
+>   自走砲
+>   ![[2026_0503_ace-exchange-bidding-notice2.jpg]]
+>   遠程精準火力打擊系統
+>   ![[2026_0503_ace-exchange-bidding-notice3.jpg]]
+>   反裝甲飛彈
+>   ![[2026_0503_ace-exchange-bidding-notice4.jpg]]
 > 
 
 (預留)
