@@ -65,8 +65,6 @@ tags:
 >   
 > - [太陽花11週年｜是誰遺忘了太陽花？｜Notion筆記](https://tbtatp.notion.site/11-194c96211def8093abc5dbb37af4fa55/)
 >   
-> - [前金後謝調查局](https://tainan.olc.tw/p/ardata_fun/)
-> 
 > - [核能科普｜民主軍械庫](https://hackmd.io/@DArmory/H1lLYdt-Nll/https%3A%2F%2Fhackmd.io%2F%40DArmory%2FH1EMgG-Nlg)
 
 ***
