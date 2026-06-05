@@ -46,6 +46,19 @@ article {
   border: none !important;
 }
 
+.callout[data-callout="metadata"] {
+  --color: rgb(147, 112, 219) !important;
+  background-color: rgba(147, 112, 219, 0.05) !important;
+  border: none !important;
+  
+  /* 強制指定圖示為資料庫網絡圖示 */
+  .callout-icon {
+    &::before {
+      content: "\e963"; /* 使用 Lucide 圖示編碼 */
+    }
+  }
+}
+
 article {
   overflow-wrap: break-word !important;
   word-wrap: break-word !important;
