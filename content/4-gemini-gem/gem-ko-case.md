@@ -22,7 +22,7 @@ https://gemini.google.com/gem/cd41a7b7a87d?usp=sharing
 2. 登入Google 綁定你的 Gemini 才能使用（使用你自己的Ai額度，我們不會收到你的任何資料）
 3. 畫面會顯示「⚖️京華城…」就表示進入成功（可以隨意提問你想問的！）
 
-### 作者：
+## 作者：
 
 @seth.hsu
 
@@ -57,7 +57,7 @@ https://www.threads.com/@seth.hsu/post/DXb83srkqGz
 
 ***
 
-### 作者說明：
+## 作者說明：
 
 ![[gem-ko-case_1.jpg]]
 

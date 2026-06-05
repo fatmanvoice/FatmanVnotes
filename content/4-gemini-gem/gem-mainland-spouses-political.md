@@ -22,7 +22,7 @@ https://gemini.google.com/gem/43e4b92d35c5?usp=sharing
 2. 登入Google 綁定你的 Gemini 才能使用（使用你自己的Ai額度，我們不會收到你的任何資料）
 3. 畫面會顯示「⚖️陸配公職爭議…」就表示進入成功（可以隨意提問你想問的！）
 
-### 作者： 
+## 作者： 
 
 @seth.hsu
 
@@ -56,7 +56,7 @@ Q4：立委能看國家機密，中共又具備敵意，有國安與忠誠疑慮
 
 ***
 
-### 作者說明：
+## 作者說明：
 
 ![[gem-mainland-spouses-political_1.jpg]]
 

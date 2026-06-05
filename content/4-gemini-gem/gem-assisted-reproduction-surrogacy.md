@@ -22,7 +22,7 @@ https://gemini.google.com/gem/9d1cdfd95797?usp=sharing
 2. 登入Google 綁定你的 Gemini 才能使用（使用你自己的Ai額度，我們不會收到你的任何資料）
 3. 畫面會顯示「🤰代孕法規與QA…」就表示進入成功（可以隨意提問你想問的！）
 
-### 作者： 
+## 作者： 
 
 @seth.hsu
 
@@ -48,7 +48,7 @@ https://www.threads.com/@seth.hsu/post/DTVv73ckppn
 
 ***
 
-### 作者說明：
+## 作者說明：
 
 ![[gem-assisted-reproduction-surrogacy_1.jpg]]
 
