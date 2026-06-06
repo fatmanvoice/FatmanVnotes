@@ -24,7 +24,7 @@ https://gemini.google.com/gem/cd41a7b7a87d?usp=sharing
 
 ## 作者：
 
-@seth.hsu
+[@seth.hsu](https://linkgoods.com/seth/)
 
 ### 作者網址：
 
