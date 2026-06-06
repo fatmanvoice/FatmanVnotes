@@ -13,7 +13,7 @@ tags:
 # ⚖️陸配公職爭議：法理結構與邏輯解析系統
 
 ### GEM連結：
-
+![[gem-mainland-spouses-political-qr.png]]
 https://gemini.google.com/gem/43e4b92d35c5?usp=sharing
 
 ### GEM使用教學：

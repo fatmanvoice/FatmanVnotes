@@ -13,7 +13,7 @@ tags:
 # ⚖️京華城案解析：法理結構與邏輯解析系統
 
 ### GEM連結：
-
+![[gem-ko-case-qr.png]]
 https://gemini.google.com/gem/cd41a7b7a87d?usp=sharing
 
 ### GEM使用教學：

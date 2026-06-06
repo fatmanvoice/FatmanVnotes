@@ -13,7 +13,7 @@ tags:
 # 🤰代孕法規與QA
 
 ### GEM連結：
-
+![[gem-assisted-reproduction-surrogacy-qr.png]]
 https://gemini.google.com/gem/9d1cdfd95797?usp=sharing
 
 ### GEM使用教學：
