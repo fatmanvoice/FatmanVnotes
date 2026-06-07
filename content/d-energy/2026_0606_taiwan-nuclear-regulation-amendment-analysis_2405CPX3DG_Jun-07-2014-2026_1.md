@@ -132,12 +132,10 @@ tags:
     - **核二廠：** 從 0.67g 提升至 **1.272g**。
     - **核三廠：** 從 0.72g 提升至 **1.384g**（約為地震規模 7 級的強度）
       
-- **防海嘯強化：** 核安會要求各電廠在原有的海嘯設計基準上，再**提高 6 公尺（依海拔不同高達15 ~ 19 公尺）的海嘯防護能力**，以因應超出設計基準的極端海嘯。  
-	 - 核三廠海嘯模擬最大上溯高度
-	  ![[maanshan-nuclear-power-plant-tsunami-simulation-maximum-run-up-height.jpg]]
-	  
-	- 核三廠海平面高度
-	  ![[maanshan-nuclear-power-plant-sea-level.jpg]]
+- **防海嘯強化：** 核安會要求各電廠在原有的海嘯設計基準上，再**提高 6 公尺（依海拔不同高達15 ~ 19 公尺）的海嘯防護能力**，以因應超出設計基準的極端海嘯。
+  ![[maanshan-nuclear-power-plant-tsunami-simulation-maximum-run-up-height.jpg]]
+  
+  ![[maanshan-nuclear-power-plant-sea-level.jpg]]
 
 ##### 2. 多重多樣的緊急冷卻與電力供應
 
@@ -145,26 +143,19 @@ tags:
 
 - **多源補水：** 增設反應爐及用過燃料池的多重水源灌水路徑，確保即便所有固定式系統失效，仍能透過移動式設備進行冷卻。
 
-- **全廠斷電應對：** 透過固定式與移動式多樣電源供應，大幅強化因應全廠斷電（SBO）的能力，避免如福島般失去所有冷卻手段。  
-	- 延長自主供電時間
-	  ![[extending-autonomous-power-supply-duration.jpg]]
+- **全廠斷電應對：** 透過固定式與移動式多樣電源供應，大幅強化因應全廠斷電（SBO）的能力，避免如福島般失去所有冷卻手段。
 
-- 生水池：台灣核電廠獨步全球的先進設施。可依靠重力注水進行緊急冷卻。雖然這種高空重力注水概念在現代新一代核電廠設計（如西屋公司的 AP1000 圍阻體頂部水箱）已變成常見的被動安全系統（Passive Safety System），但台灣早在數十年前建廠時，就前瞻性地在所有核電廠周邊山上部署了這種大型生水池，成為台灣獨特且扎實的核安實踐。  
-	- 核三廠平面圖與生水池參考圖
-	   ![[maanshan-nuclear-power-plant-layout-plan-1.jpg]]
-	   
-	- 核三廠平面圖2
-	  ![[maanshan-nuclear-power-plant-layout-plan-2.jpg]]
-	  
-	- 核三廠生水池文件
-	  ![[maanshan-nuclear-power-plant-raw-water-reservoir-document.jpg]]
-	  
-	- 核三廠生水池圖1
-	  ![[maanshan-nuclear-power-plant-raw-water-reservoir-diagram-1.jpg]]
-	  
-	- 福島沒有設置台灣的生水池
-	  ![[fukushima-did-not-have-taiwans-raw-water-reservoir.jpg]]
+- 生水池：台灣核電廠獨步全球的先進設施。可以不依賴電力進行緊急冷卻。
+  核三廠平面圖與生水池
+  ![[核三廠平面圖1.png]]
 
+![[核三廠平面圖2.jpg]]
+
+![[核三廠生水池.jpg]]
+
+![[核三廠聲水池圖1.png]]
+  
+  
 
 ##### 3. 技術設計與硬體改良
 
