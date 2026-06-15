@@ -148,7 +148,7 @@ tags:
 >   
 > ***
 > 
-> - 2025_1222_Seth_憲政卡關 誰的責任
+> - 2025 1222 Seth 憲政卡關 誰的責任
 >   ![[2025_1222_seth-constitutional-stalemate-accountability.jpg]]
 >   
 >   https://www.threads.com/@seth.hsu/post/DSjPPf8EhVj
@@ -161,7 +161,7 @@ tags:
 
 > [!metadata]- Knowledge Layer
 > 
-> - Event: 2025/12 114年憲判字第1號釋憲程序與正當性爭議
+> - Event: 2025/12/22 114年憲判字第1號釋憲程序與正當性爭議
 >     
 > - Claims: 判決正當性來自合法程序而非事後連署,憲法法庭應遵守法規門檻,總統有依法補足大法官提名之義務,程序正義不應被妥協
 >     

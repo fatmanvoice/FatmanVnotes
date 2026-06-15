@@ -197,7 +197,7 @@ tags:
 > 
 > ***
 > 
-> - 2026_0220_美國最高法院判決（Learning Resources, Inc. v. Trump）
+> - 2026 0220 美國最高法院判決（Learning Resources, Inc. v. Trump）
 >   https://www.supremecourt.gov/opinions/25pdf/24-1287_4gcj.pdf?ref=levernews.com
 > 
 > ***
@@ -207,8 +207,21 @@ tags:
 > ── 相關附件區 ──
 > 
 > 
-> - 2025_0213_臺灣與美國間對等貿易協定-中文
+> - 2025 0213 臺灣與美國間對等貿易協定-中文
 >   [[2025_0213_taiwan-us-reciprocal-trade-agreement.pdf]]
 >   
 
 (預留)
+
+> [!metadata]- Knowledge Layer
+> 
+> - Event: 2025/08–2026/02 台美對等貿易協定簽署與美國最高法院違憲裁定爭議
+>     
+> - Claims: 台灣為換取關稅豁免承諾高額採購與食安退讓、美國最高法院裁定IEEPA課稅違憲導致協定法理基礎崩解、台灣面臨單向履約困境應援引情事變更原則重啟談判
+>     
+> - Counterclaims: 執政當局認為協定提供半導體產業友岸外包保障、強調戰略結盟之必要性
+>     
+> - Laws: 國際緊急經濟權力法(IEEPA), 美國貿易法第301條, 貿易法§7, 貿易法§6, 關稅法§71, 關稅法§72
+>     
+> - Sources: 台美對等貿易協定條文, Learning Resources, Inc. v. Trump最高法院裁定書, 國會ivod直播
+>

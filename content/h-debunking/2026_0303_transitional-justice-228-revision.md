@@ -251,3 +251,16 @@ tags:
 > 
 
 (預留)
+
+> [!metadata]- Knowledge Layer
+> 
+> - Event: 2025/01–2026/06 轉型正義工具化爭議與二二八事件歷史論述分析
+>     
+> - Claims: 轉型正義淪為執政者規避監督的工具, 二二八事件應視為經濟斷層與生存焦慮疊加的系統性災難, 促轉會解散移撥行政院造成監督盲區與球員兼裁判問題, 歷史真相不應被單向政治敘事取代
+>     
+> - Counterclaims: 轉型正義有助於防止民主崩潰, 二二八事件係威權統治下的人權迫害事件, 轉型正義為鞏固民主之必要手段
+>     
+> - Laws: 促進轉型正義條例§1
+>     
+> - Sources: Transnational Justice and the Problem of Democratic Decline (Geoff Dancy & Oskar Timo Thoms, 2025), 各類二二八事件調查報告與相關史料檔案
+> 

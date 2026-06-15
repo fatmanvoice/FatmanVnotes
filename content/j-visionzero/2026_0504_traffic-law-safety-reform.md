@@ -189,8 +189,20 @@ tags:
 > ── 相關附件區 ──
 > 
 > - 車種分流與車向分流
->   
-> ![[2026_0504_vehicle-lane-segregation.jpg]]
+>   ![[2026_0504_vehicle-lane-segregation.jpg]]
 > 
 
 (預留)
+
+> [!metadata]- Knowledge Layer
+> 
+> - Event: 2026/05/04 台灣人本交通改革與現行法規安全隱憂分析
+>     
+> - Claims: 現行車種分流（如兩段式左轉）造成動線交織與事故風險, 斑馬線緊貼路口致A柱死角嚴重, 車道過寬誘導超速導致道路混亂, 應落實以幾何工程設計（如庇護島、車道瘦身）取代標線管理, 應依道路交通安全基本法第27條清理不合理規範
+>     
+> - Counterclaims: 無
+>     
+> - Laws: 道路交通安全基本法§27, 道路交通安全規則§99, 道路交通標誌標線號誌設置規則
+>     
+> - Sources: 台大研究The causal effects of removing Hook-Turn regulation on road safety, 內政部國土署人本交通規劃設計手冊
+> 
