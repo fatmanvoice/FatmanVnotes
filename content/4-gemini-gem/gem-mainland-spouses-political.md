@@ -1,7 +1,7 @@
 ---
-aliases: 陸配公職爭議：法理結構與邏輯解析系統
-title: 陸配公職爭議：法理結構與邏輯解析系統
-description: 陸配公職爭議：法理結構與邏輯解析系統
+aliases: 陸配公職爭議：法理結構與邏輯解析
+title: 陸配公職爭議：法理結構與邏輯解析
+description: 陸配公職爭議：法理結構與邏輯解析
 draft: false
 date: 2026-03-19
 tags:

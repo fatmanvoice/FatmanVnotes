@@ -1,7 +1,7 @@
 ---
-aliases: 京華城案解析：法理結構與邏輯解析系統
-title: 京華城案解析：法理結構與邏輯解析系統
-description: 京華城案解析：法理結構與邏輯解析系統
+aliases: 京華城案解析：法理結構與邏輯解析
+title: 京華城案解析：法理結構與邏輯解析
+description: 京華城案解析：法理結構與邏輯解析
 draft: false
 date: 2026-04-10
 tags:
