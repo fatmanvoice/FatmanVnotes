@@ -9,6 +9,7 @@ tags:
   - 監督時政
   - 關懷弱勢
   - 人本交通
+google-site-verification: _qyLX-2IVHSJTy8ow7KIa1gUtKuBO7jqhghwIErYKWU
 ---
 
 # 🎨 藝術 是社會最後的良心 
