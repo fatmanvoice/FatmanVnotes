@@ -38,7 +38,7 @@ article {
   }
 
   /* --- 3. 內容排版控制 (間距核心修正) --- */
-  p, li, blockquote { font-size: 0.95rem !important; line-height: 1.55 !important; }
+  p, li, blockquote { font-size: 0.9rem !important; line-height: 1.6 !important; }
   
   /* 標題間距：確保標題與上方內容有足夠留白 */
   h1, h2, h3 {
@@ -63,12 +63,12 @@ article {
 
   /* Callout 區塊間距 */
   .callout {
-    margin-top: 2rem !important;
-    margin-bottom: 2rem !important;
+    margin-top: 3rem !important;
+    margin-bottom: 3rem !important;
   }
 
   ul, ol { padding-left: 2.2rem !important; }
-  li { margin: 0.5rem 0 !important; }
+  li { margin: 0.3rem 0 !important; }
 }
 
 /* --- 4. Callout 特定樣式 --- */
