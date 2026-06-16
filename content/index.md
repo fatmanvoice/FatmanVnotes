@@ -9,7 +9,6 @@ tags:
   - 監督時政
   - 關懷弱勢
   - 人本交通
-google-site-verification: _qyLX-2IVHSJTy8ow7KIa1gUtKuBO7jqhghwIErYKWU
 ---
 
 # 🎨 藝術 是社會最後的良心 
@@ -58,13 +57,13 @@ google-site-verification: _qyLX-2IVHSJTy8ow7KIa1gUtKuBO7jqhghwIErYKWU
 >   
 > - [＠seth.hsu ⚜️圓桌｜Threads](https://linkgoods.com/seth/)
 >   
-> - [@kpsupkeepgoing2024｜HackMD筆記庫](https://hackmd.io/@kpsupkeepgoing2024/)
+> - [@kpsupkeepgoing2024｜HackMD筆記](https://hackmd.io/@kpsupkeepgoing2024/)
 >   
 > - [小草頻道台](https://valentina-anbessa.github.io/)
 >   
 > - [審判 Truth on Trials](https://truthontrials.org/)
 >   
-> - [太陽花11週年｜是誰遺忘了太陽花？｜Notion筆記](https://tbtatp.notion.site/11-194c96211def8093abc5dbb37af4fa55/)
+> - [是誰遺忘了太陽花？｜Notion筆記](https://tbtatp.notion.site/11-194c96211def8093abc5dbb37af4fa55/)
 >   
 > - [核能科普｜民主軍械庫](https://hackmd.io/@DArmory/H1lLYdt-Nll/https%3A%2F%2Fhackmd.io%2F%40DArmory%2FH1EMgG-Nlg)
 
