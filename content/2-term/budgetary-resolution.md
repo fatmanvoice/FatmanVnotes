@@ -2,7 +2,7 @@
 aliases: 預算主決議
 title: 預算主決議
 description: 預算主決議
-draft: true
+draft: false
 date: 2010-04-08
 tags:
   - 預算法
