@@ -1,5 +1,6 @@
 @use "./variables.scss" as *;
 
+/* --- 1. 全域顏色設定 --- */
 :root {
   --secondary: #00b2b2 !important;
   --tertiary: #00FFFF !important;
@@ -10,15 +11,17 @@
   --tertiary: #33FFFF !important;
 }
 
-article a {
-  color: var(--secondary) !important;
-  transition: color 0.2s ease !important;
-  &:hover {
-    color: var(--tertiary) !important;
-  }
-}
-
 article {
+  /* --- 2. 連結與標籤交互樣式 --- */
+  a {
+    color: var(--secondary) !important;
+    transition: color 0.2s ease !important;
+    word-break: break-all !important;
+    &:hover {
+      color: var(--tertiary) !important;
+    }
+  }
+
   .tag-link, .pill, a.tag {
     background-color: rgba(0, 178, 178, 0.15) !important;
     border: none !important;
@@ -33,13 +36,42 @@ article {
       color: #00b2b2 !important;
     }
   }
-  .tag-link, .pill {
-    --pill-background: rgba(0, 178, 178, 0.15) !important;
-    --pill-border: none !important;
-    --pill-color: #00b2b2 !important;
+
+  /* --- 3. 內容排版控制 (間距核心修正) --- */
+  p, li, blockquote { font-size: 0.95rem !important; line-height: 1.55 !important; }
+  
+  /* 標題間距：確保標題與上方內容有足夠留白 */
+  h1, h2, h3 {
+    margin-top: 3rem !important;
+    margin-bottom: 1.5rem !important;
   }
+
+  /* 表格間距：修正時間軸表格與後續內容黏在一起的問題 */
+  table {
+    margin-top: 2rem !important;
+    margin-bottom: 2rem !important;
+  }
+
+  /* 分隔線 (---) 間距：確保分隔線前後有明確區隔 */
+  hr {
+    margin-top: 3rem !important;
+    margin-bottom: 3rem !important;
+    border: 0;
+    border-top: 2px solid var(--secondary);
+    opacity: 0.3;
+  }
+
+  /* Callout 區塊間距 */
+  .callout {
+    margin-top: 2rem !important;
+    margin-bottom: 2rem !important;
+  }
+
+  ul, ol { padding-left: 2.2rem !important; }
+  li { margin: 0.5rem 0 !important; }
 }
 
+/* --- 4. Callout 特定樣式 --- */
 .callout[data-callout="note"] {
   --color: rgb(150, 200, 200) !important;
   background-color: rgba(150, 200, 200, 0.05) !important;
@@ -50,47 +82,12 @@ article {
   --color: rgb(147, 112, 219) !important;
   background-color: rgba(147, 112, 219, 0.05) !important;
   border: none !important;
-  
-  /* 強制指定圖示為資料庫網絡圖示 */
   .callout-icon {
-    &::before {
-      content: "\e963"; /* 使用 Lucide 圖示編碼 */
-    }
+    &::before { content: "\e963"; }
   }
 }
 
-article {
-  overflow-wrap: break-word !important;
-  word-wrap: break-word !important;
-  word-break: break-word !important;
-  a { word-break: break-all !important; }
-  ul, ol, li, blockquote {
-    max-width: 100% !important;
-    box-sizing: border-box !important;
-  }
-  span.internal-embed, span.image-embed {
-    display: block !important;
-    max-width: 100% !important;
-    margin: 1.5rem auto !important;
-    text-align: center !important;
-  }
-  img {
-    max-width: 90% !important;
-    width: auto !important;
-    height: auto !important;
-    display: block !important;
-    margin: 0 auto !important;
-  }
-  ul, ol { padding-left: 2.2rem !important; }
-  li { margin: 0.5rem 0 !important; }
-  li > p { margin-top: 0.4rem !important; margin-bottom: 0.4rem !important; }
-  ul ul, ul ol, ol ul, ol ol {
-    padding-left: 1.5rem !important;
-    margin: 0.5rem 0 !important;
-    border-left: 2px solid rgba(150, 200, 200, 0.4) !important;
-  }
-}
-
+/* --- 5. 系統與索引頁設定 --- */
 [data-slug="index"] {
   .properties, [class*="property"], .obsidian-properties, details { display: none !important; }
 }
@@ -103,21 +100,8 @@ ul.section-ul {
   list-style: none !important;
   li.section-li {
     margin: 1.5rem 0 !important;
-    .section, .section > .desc { display: block !important; width: 100% !important; }
     .desc a { font-size: 1.25rem !important; font-weight: 500 !important; }
-    .meta { 
-      display: block !important; 
-      font-size: 0.85rem !important; 
-      color: #888 !important; 
-      margin-top: 0.3rem !important;
-    }
+    .meta { display: block !important; font-size: 0.85rem !important; color: #888 !important; margin-top: 0.3rem !important; }
     .tags, ul.tags { display: none !important; }
   }
-}
-
-article {
-  p, li, blockquote { font-size: 0.95rem !important; line-height: 1.55 !important; }
-  h1 { font-size: 1.7rem !important; }
-  h2 { font-size: 1.45rem !important; }
-  h3 { font-size: 1.25rem !important; }
 }
