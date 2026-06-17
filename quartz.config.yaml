@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: 'google'
     tagId: 'G-R736SKTF0R'
-  locale: en-US
+  locale: zh-TW
   baseUrl: fatmanvoice.github.io/fatmanvnotes
   ignorePatterns:
     - private
