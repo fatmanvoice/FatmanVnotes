@@ -501,6 +501,6 @@ tags:
 > - **備份檔連結：** [立法院職權行使法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0020058&kw=%e7%ab%8b%e6%b3%95%e9%99%a2%e8%81%b7%e6%ac%8a%e8%a1%8c%e4%bd%bf%e6%b3%95)
 > 
 
-—— 凹凸不平胖市民 [@fatmanvoice](https://www.google.com/search?q=https%3A%2F%2Flinktr.ee%2Ffatmanvoice%2F) ⚜️圓桌
+—— 凹凸不平胖市民 [@fatmanvoice](https://linktr.ee/fatmanvoice/) ⚜️圓桌
 
 #立法院 #國會職權

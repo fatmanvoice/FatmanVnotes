@@ -683,6 +683,6 @@ tags:
 > - **備份檔連結：** [預算法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=T0020001&kw=%e9%a0%90%e7%ae%97%e6%b3%95)
 >     
 
-—— 凹凸不平胖市民 [@fatmanvoice](https://www.google.com/search?q=https%3A%2F%2Flinktr.ee%2Ffatmanvoice%2F) ⚜️圓桌
+—— 凹凸不平胖市民 [@fatmanvoice](https://linktr.ee/fatmanvoice/) ⚜️圓桌
 
 #法律 #預算編列 #財政監督

@@ -57,3 +57,18 @@ https://www.threads.com/@seth.hsu/post/DTVv73ckppn
 ![[gem-assisted-reproduction-surrogacy_3.jpg]]
 
 ![[gem-assisted-reproduction-surrogacy_4.jpg]]
+
+(預留)
+
+> [!info] 🎥 本文參考影音與文獻
+> 
+> ── 延伸閱讀區 ──
+> 
+> 
+> ── 相關附件區 ──
+> 
+> 
+
+—— 凹凸不平胖市民 [@fatmanvoice](https://linktr.ee/fatmanvoice/) ⚜️圓桌
+
+#代孕法規與QA #圓桌

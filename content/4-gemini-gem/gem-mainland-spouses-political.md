@@ -61,3 +61,18 @@ Q4：立委能看國家機密，中共又具備敵意，有國安與忠誠疑慮
 ![[gem-mainland-spouses-political_1.jpg]]
 
 ![[gem-mainland-spouses-political_2.jpg]]
+
+(預留)
+
+> [!info] 🎥 本文參考影音與文獻
+> 
+> ── 延伸閱讀區 ──
+> 
+> 
+> ── 相關附件區 ──
+> 
+> 
+
+—— 凹凸不平胖市民 [@fatmanvoice](https://linktr.ee/fatmanvoice/) ⚜️圓桌
+
+#陸配公職爭議 #圓桌
