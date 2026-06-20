@@ -45,6 +45,7 @@ export default (() => {
       <head>
         <title>{title}</title>
         <meta charSet="utf-8" />
+        <meta name="google-site-verification" content="_qyLX-2IVHSJTy8ow7KIa1gUtKuBO7jqhghwIErYKWU" />
         {coreStylesheet && <link rel="preload" href={coreStylesheet} as="style" />}
         {coreScript && coreScript.contentType === "external" && (
           <link rel="preload" href={coreScript.src} as="script" />
@@ -70,7 +71,6 @@ export default (() => {
         <meta name="twitter:description" content={description} />
         <meta property="og:description" content={description} />
         <meta property="og:image:alt" content={description} />
-        <meta name="google-site-verification" content="_qyLX-2IVHSJTy8ow7KIa1gUtKuBO7jqhghwIErYKWU" />
 
         {!usesCustomOgImage && (
           <>
