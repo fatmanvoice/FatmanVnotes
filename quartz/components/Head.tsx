@@ -70,6 +70,7 @@ export default (() => {
         <meta name="twitter:description" content={description} />
         <meta property="og:description" content={description} />
         <meta property="og:image:alt" content={description} />
+        <meta name="google-site-verification" content="_qyLX-2IVHSJTy8ow7KIa1gUtKuBO7jqhghwIErYKWU" />
 
         {!usesCustomOgImage && (
           <>
