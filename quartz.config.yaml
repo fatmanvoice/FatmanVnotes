@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: "The Fatman's Notes"
+  pageTitle: The Fatman's Notes
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: google
     tagId: G-R736SKTF0R
-  google-site-verification: _qyLX-2IVHSJTy8ow7KIa1gUtKuBO7jqhghwIErYKWU
+  googleSiteVerification: _qyLX-2IVHSJTy8ow7KIa1gUtKuBO7jqhghwIErYKWU
   locale: zh-TW
   baseUrl: fatmanvoice.github.io/fatmanvnotes
   ignorePatterns:
@@ -18,8 +18,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: "Noto Sans TC"
-      body: "Noto Sans TC"
+      header: Noto Sans TC
+      body: Noto Sans TC
       code: IBM Plex Mono
     colors:
       lightMode:
