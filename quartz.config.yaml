@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: 'google'
     tagId: 'G-R736SKTF0R'
-  googleSiteVerification: "_qyLX-2IVHSJTy8ow7KIa1gUtKuBO7jqhghwIErYKWU"
+  google-site-verification: '_qyLX-2IVHSJTy8ow7KIa1gUtKuBO7jqhghwIErYKWU'
   locale: zh-TW
   baseUrl: fatmanvoice.github.io/fatmanvnotes
   ignorePatterns:
