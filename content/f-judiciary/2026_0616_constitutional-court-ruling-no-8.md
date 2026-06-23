@@ -22,7 +22,7 @@ tags:
 >     
 
 封面：
-![[2026_0616_constitutional-court-ruling-no-8.jpg]]
+![[2026_0616_constitutional-court-ruling-no-8-cover.jpg]]
 —————————
 
 ## 📃 純文字版摘要（約 400 字）

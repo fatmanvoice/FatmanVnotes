@@ -22,7 +22,7 @@ tags:
 >     
 
 封面：
-![[2026_0615_complete-record-election-act-amendment.jpg]]
+![[2026_0615_complete-record-election-act-amendment-cover.jpg]]
 —————————
 
 ## 📃 純文字版摘要（約 400 字）
