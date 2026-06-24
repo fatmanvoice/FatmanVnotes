@@ -1,7 +1,7 @@
 ---
 aliases: 零死亡願景
 title: 零死亡願景
-description: 零死亡願景
+description: 零死亡願景是一種革命性的道路安全策略，1997 年起源於瑞典，現已成為聯合國及世界各先進國家的共同目標。
 draft: false
 date: 1994-01-01
 tags:

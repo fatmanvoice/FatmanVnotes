@@ -1,5 +1,5 @@
 ---
-aliases: 公共設施帶與人本交通
+aliases: 2026_0622_公共設施帶與人本交通
 title: 公共設施帶與人本交通
 description: 探討公共設施帶如何透過整合散落人行道的硬體，排除行人障礙，落實以人為本的交通。結合科學標線與道路幾何設計，將空間還給行人，讓各類用路人皆能安全行走，是台灣邁向道路平權與宜居城市的關鍵工程轉型。
 draft: false
@@ -22,7 +22,7 @@ tags:
 >     
 
 封面：
-![[2026_0622_public-facility-belt-pedestrian-safety.jpg]]
+![[2026_0622_public-facility-belt-pedestrian-safety-cover.jpg]]
 —————————
 
 ## 📃 純文字版摘要（約 400 字）

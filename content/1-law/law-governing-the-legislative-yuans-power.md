@@ -6,8 +6,8 @@ draft: false
 date: 2024-06-24
 tags:
   - 法律
-  - 立法院
   - 國會職權
+  - 立法院
 ---
 
 # ⚖️ 立法院職權行使法
@@ -16,7 +16,7 @@ tags:
 > 
 > - **即時原文：**[立法院職權行使法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0020058&kw=%e7%ab%8b%e6%b3%95%e9%99%a2%e8%81%b7%e6%ac%8a%e8%a1%8c%e4%bd%bf%e6%b3%95)
 >     
-> - **修訂日期：** 2024 年 6 月 24 日 公布
+> - **修訂日期：** 2024 年 6 月 24 日 
 >     
 > - **法律位階：** #法律
 >     
@@ -503,4 +503,4 @@ tags:
 
 —— 凹凸不平胖市民 [@fatmanvoice](https://linktr.ee/fatmanvoice/) ⚜️圓桌
 
-#立法院 #國會職權
+#國會職權 #立法院

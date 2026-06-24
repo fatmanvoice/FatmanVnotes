@@ -1,7 +1,7 @@
 ---
 aliases: 人本交通
 title: 人本交通
-description: 人本交通
+description: 人本交通的核心定義為「交通系統之規劃管理以人為本位，營造安全、友善、可靠、舒適、健康的永續交通環境」。
 draft: false
 date: 1972-01-01
 tags:
