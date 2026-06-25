@@ -225,6 +225,9 @@ plugins:
         Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
     enabled: true
+    options:
+      title: 'Recent notes'
+      limit: 5
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
@@ -289,7 +292,4 @@ layout:
     tag:
       exclude:
         - reader-mode
-      positions:
-        right: []
-    canvas: {}
-    bases: {}
+      po
