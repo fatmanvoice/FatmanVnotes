@@ -228,6 +228,10 @@ plugins:
     options:
       title: 'Recent notes'
       limit: 5
+    layout:
+      position: left
+      priority: 20
+      display: desktop-only
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
@@ -292,4 +296,7 @@ layout:
     tag:
       exclude:
         - reader-mode
-      po
+      positions:
+        right: []
+    canvas: {}
+    bases: {}
