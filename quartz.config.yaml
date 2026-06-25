@@ -227,7 +227,7 @@ plugins:
     enabled: true
     options:
       title: "Recent"
-      limit: 5
+      limit: 3
       showTags: false
       hideTagPages: true
     layout:
