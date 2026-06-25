@@ -22,7 +22,6 @@ tags:
 
 封面：
 ![[2026_0119_defense-special-budget-secret-meeting-controversy-cover.jpg]]
-
 —————————
 
 ## 📃 純文字版摘要（約 400 字）

@@ -23,7 +23,6 @@ tags:
 
 封面：
 ![[2026_0409_six-key-disputes-in-ko-verdict-cover.jpg]]
-
 —————————
 
 ## 📃 純文字版摘要（約 400 字）

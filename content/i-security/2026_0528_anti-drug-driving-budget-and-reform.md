@@ -23,7 +23,6 @@ tags:
 
 封面：
 ![[2026_0528_anti-drug-driving-budget-and-reform-cover.jpg]]
-
 —————————
 
 ## 📃 純文字版摘要（約 400 字）

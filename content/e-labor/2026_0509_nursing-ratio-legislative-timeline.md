@@ -23,7 +23,6 @@ tags:
 
 封面：
 ![[2026_0509_nursing-ratio-legislative-timeline-cover.jpg]]
-
 —————————
 
 ## 📃 純文字版摘要（約 400 字）

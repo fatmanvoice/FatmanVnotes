@@ -23,7 +23,6 @@ tags:
 
 封面：
 ![[2026_0126_tpp-defense-special-act-no-blank-check-cover.jpg]]
-
 —————————
 
 ## 📃 純文字版摘要（約 400 字）

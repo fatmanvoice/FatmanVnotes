@@ -23,7 +23,6 @@ tags:
 
 封面：
 ![[2026_0109_tpp-two-year-term-implementation-cover.jpg]]
-
 —————————
 
 ## 📃 純文字版摘要（約 400 字）

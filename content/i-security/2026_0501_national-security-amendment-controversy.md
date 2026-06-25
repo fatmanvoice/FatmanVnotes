@@ -23,7 +23,6 @@ tags:
 
 封面：
 ![[2026_0501_national-security-amendment-controversy-cover.jpg]]
-
 —————————
 
 ## 📃 純文字版摘要（約 400 字）

@@ -23,7 +23,6 @@ tags:
 
 封面：
 ![[2025_1227_social-order-act-speech-curbs-cover.jpg]]
-
 —————————
 
 ## 📃 純文字版摘要（約 400 字）

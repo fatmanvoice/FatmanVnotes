@@ -23,7 +23,6 @@ tags:
 
 封面：
 ![[2026_0508_nursing-ratio-bill-passed-analysis-cover.jpg]]
-
 —————————
 
 ## 📃 純文字版摘要（約 400 字）

@@ -23,7 +23,6 @@ tags:
 
 封面：
 ![[2025_1223_constitutional-court-threshold-procedural-justice-cover.jpg]]
-
 —————————
 
 ## 📃 純文字版摘要（約 400 字）

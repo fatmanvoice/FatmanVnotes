@@ -23,7 +23,6 @@ tags:
 
 封面：
 ![[2025_1222_petitions-cannot-legitimize-unjust-rulings-cover.jpg]]
-
 —————————
 
 ## 📃 純文字版摘要（約 400 字）

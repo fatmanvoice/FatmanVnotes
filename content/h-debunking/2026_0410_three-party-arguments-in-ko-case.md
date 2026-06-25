@@ -23,7 +23,6 @@ tags:
 
 封面：
 ![[2026_0410_three-party-arguments-in-ko-case-cover.jpg]]
-
 —————————
 
 ## 📃 純文字版摘要（約 400 字）

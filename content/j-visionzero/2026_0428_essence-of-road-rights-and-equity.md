@@ -23,7 +23,6 @@ tags:
 
 封面：
 ![[2026_0428_essence-of-road-rights-and-equity-cover.jpg]]
-
 —————————
 
 ## 📃 純文字版摘要（約 400 字）
