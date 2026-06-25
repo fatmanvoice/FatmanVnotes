@@ -221,13 +221,18 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Linktree: https://linktr.ee/fatmanvoice
+        Discord: https://discord.com/invite/QVauxCMhsN
+        shopee: https://shopee.tw/shop/6086108
+        YouTube: https://www.youtube.com/@fatmanvoice
+        Facebook: https://www.facebook.com/fatmanvoice
+        Instagram: https://www.instagram.com/fatmanvoice
+        Threads: https://www.threads.com/@fatmanvoice
   - source: github:quartz-community/recent-notes
     enabled: true
     options:
       title: "Recent"
-      limit: 4
+      limit: 3
       showTags: false
       hideTagPages: true
     layout:
