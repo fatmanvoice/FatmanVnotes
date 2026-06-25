@@ -226,13 +226,13 @@ plugins:
   - source: github:quartz-community/recent-notes
     enabled: true
     options:
-      title: 'Recent notes'
-      limit: 3
+      title: "Recent"
+      limit: 5
       showTags: false
       hideTagPages: true
     layout:
       position: right
-      priority: 20
+      priority: 25
       display: all
   - source: github:quartz-community/spacer
     enabled: true
