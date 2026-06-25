@@ -227,7 +227,9 @@ plugins:
     enabled: true
     options:
       title: 'Recent notes'
-      limit: 5
+      limit: 2
+      showTags: false
+      hideTagPages: true
     layout:
       position: left
       priority: 20
