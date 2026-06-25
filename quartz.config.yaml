@@ -227,11 +227,11 @@ plugins:
     enabled: true
     options:
       title: 'Recent notes'
-      limit: 2
+      limit: 3
       showTags: false
       hideTagPages: true
     layout:
-      position: left
+      position: right
       priority: 20
       display: desktop-only
   - source: github:quartz-community/spacer
