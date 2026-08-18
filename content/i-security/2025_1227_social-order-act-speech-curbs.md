@@ -43,7 +43,7 @@ tags:
 
 —————————
 
-> [!note] 🔍 核心法理邏輯深研
+> [!summary] 🔍 核心法理邏輯深研
 > 回歸法條原文與科學數據，動手查證對抗認知作戰
 
 ## 🚨你的帳號不是你的帳號。
@@ -137,7 +137,7 @@ tags:
 
 (預留)
 
-> [!metadata]- Knowledge Layer
+> [!example]- Knowledge Layer
 > 
 > - Event: 2025/12/26 行政院版社會秩序維護法修正草案爭議
 >     

@@ -41,7 +41,7 @@ tags:
 
 —————————
 
-> [!note] 🔍 核心法理邏輯深研
+> [!summary] 🔍 核心法理邏輯深研
 > 
 > 回歸法條原文與科學數據，動手查證對抗認知作戰
 
@@ -333,7 +333,7 @@ tags:
 
 (保留)
 
-> [!metadata]- Knowledge Layer
+> [!example]- Knowledge Layer
 > 
 > - Event: 2025/08/29–2026/04/22 115年度中央總預算審議爭議
 >     

@@ -50,7 +50,7 @@ tags:
 
 —————————
 
-> [!note] 🔍 核心法理邏輯深研
+> [!summary] 🔍 核心法理邏輯深研
 > 回歸法條原文與科學數據，動手查證對抗認知作戰
 
 ## 🛑 拒絕歧視：交通轉型正義
@@ -168,7 +168,7 @@ tags:
 
 (預留)
 
-> [!metadata]- Knowledge Layer
+> [!example]- Knowledge Layer
 > 
 > - Event: 2026/04/30 道路平權與廢除機車兩段式左轉爭議
 >     

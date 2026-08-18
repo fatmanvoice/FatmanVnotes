@@ -72,13 +72,13 @@ article {
 }
 
 /* --- 4. Callout 特定樣式 --- */
-.callout[data-callout="note"] {
+.callout[data-callout="summary"] {
   --color: rgb(150, 200, 200) !important;
   background-color: rgba(150, 200, 200, 0.05) !important;
   border: none !important;
 }
 
-.callout[data-callout="metadata"] {
+.callout[data-callout="example"] {
   --color: rgb(147, 112, 219) !important;
   background-color: rgba(147, 112, 219, 0.05) !important;
   border: none !important;

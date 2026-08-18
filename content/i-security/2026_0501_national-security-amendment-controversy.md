@@ -45,7 +45,7 @@ tags:
 
 —————————
 
-> [!note] 🔍 核心法理邏輯深研
+> [!summary] 🔍 核心法理邏輯深研
 > 回歸法條原文與科學數據，動手查證對抗認知作戰
  
 ## 國安法修法擴權危機
@@ -192,7 +192,7 @@ tags:
 
 (預留)
 
-> [!metadata]- Knowledge Layer
+> [!example]- Knowledge Layer
 > 
 > - Event: 2026/04/30 國家安全法修正草案審查爭議
 >     

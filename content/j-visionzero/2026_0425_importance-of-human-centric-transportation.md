@@ -40,7 +40,7 @@ tags:
 
 —————————
 
-> [!note] 🔍 核心法理邏輯深研
+> [!summary] 🔍 核心法理邏輯深研
 > 回歸法條原文與科學數據，動手查證對抗認知作戰
 
 ## 🛑 **台灣交通的困境：**
@@ -157,7 +157,7 @@ tags:
 
 (預留)
 
-> [!metadata]- Knowledge Layer
+> [!example]- Knowledge Layer
 > 
 > - Event: 2023–2026 台灣人本交通改革與交通解嚴運動
 >     

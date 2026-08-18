@@ -41,7 +41,7 @@ tags:
 
 —————————
 
-> [!note] 🔍 核心法理邏輯深研
+> [!summary] 🔍 核心法理邏輯深研
 > 
 > 回歸法條原文與科學數據，動手查證對抗認知作戰
 
@@ -216,7 +216,7 @@ tags:
 
 (預留)
 
-> [!metadata]- Knowledge Layer
+> [!example]- Knowledge Layer
 > 
 > - Event: 無人機法案各黨派版本比較與預算審查爭議
 >     

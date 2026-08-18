@@ -45,7 +45,7 @@ tags:
 
 —————————
 
-> [!note] 🔍 核心法理邏輯深研
+> [!summary] 🔍 核心法理邏輯深研
 > 回歸法條原文與科學數據，動手查證對抗認知作戰
 
 ## 一架F-16V，消失在花蓮外海
@@ -124,7 +124,7 @@ tags:
 
 (預留)
 
-> [!metadata]- Knowledge Layer
+> [!example]- Knowledge Layer
 > 
 > - Event: 2026/01/06–01/07 F-16V戰機失事與國防採購裝備延宕爭議
 >     

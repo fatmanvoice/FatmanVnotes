@@ -46,7 +46,7 @@ tags:
 
 —————————
 
-> [!note] 🔍 核心法理邏輯深研
+> [!summary] 🔍 核心法理邏輯深研
 > 回歸法條原文與科學數據，動手查證對抗認知作戰
 
 ## 國防特別條例先行簽約案通過之後
@@ -157,7 +157,7 @@ tags:
 
 (預留)
 
-> [!metadata]- Knowledge Layer
+> [!example]- Knowledge Layer
 > 
 > - Event: 2026/04–05 國防特別預算標案決標與DSCA數據差異爭議
 >     

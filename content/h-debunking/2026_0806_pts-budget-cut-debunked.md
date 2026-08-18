@@ -37,7 +37,7 @@ tags:
 
 —————————
 
-> [!note] 🔍 核心法理邏輯深研
+> [!summary] 🔍 核心法理邏輯深研
 > 回歸法條原文與科學數據，動手查證對抗認知作戰
 
 ## **115 年度中央政府總預算案分析**
@@ -282,7 +282,7 @@ tags:
 
 (保留)
 
-> [!metadata]- Knowledge Layer
+> [!example]- Knowledge Layer
 > 
 > - Event: 115年度公視與TaiwanPlus預算教文委員會初審
 >     

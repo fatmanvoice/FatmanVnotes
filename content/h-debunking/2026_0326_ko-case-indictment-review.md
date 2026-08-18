@@ -50,7 +50,7 @@ tags:
 
 —————————
 
-> [!note] 🔍 核心法理邏輯深研
+> [!summary] 🔍 核心法理邏輯深研
 > 回歸法條原文與科學數據，動手查證對抗認知作戰
 
 ## 京華城案起訴書複盤
@@ -186,7 +186,7 @@ GEM使用教學：
 
 (預留)
 
-> [!metadata]- Knowledge Layer
+> [!example]- Knowledge Layer
 > 
 > - Event: 2026/03/26 京華城案一審判決前夕案情盤點
 >     
