@@ -168,7 +168,7 @@ tags:
 
 —— 凹凸不平胖市民 [@fatmanvoice](https://linktr.ee/fatmanvoice) ⚜️圓桌
 
-#釋憲 #責任政治
+#副署 #覆議
 
 —————————
 
