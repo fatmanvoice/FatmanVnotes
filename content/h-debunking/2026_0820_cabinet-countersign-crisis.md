@@ -164,6 +164,10 @@ tags:
 如果總統繼續一意孤行，台灣引以為傲的民主憲政體制終將瓦解。
 這是你想要的台灣嗎？
 
+> [!tip]
+> 我與民眾之窗合作，現已上架網頁 [不副署・不公布法案計時器](https://flash.justice-tw.org/countersign-crisis) 可以即時追蹤這些法案的進度。歡迎參考！
+>
+
 —————————
 
 —— 凹凸不平胖市民 [@fatmanvoice](https://linktr.ee/fatmanvoice) ⚜️圓桌
