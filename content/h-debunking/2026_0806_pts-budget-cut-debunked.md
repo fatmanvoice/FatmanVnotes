@@ -1,5 +1,5 @@
 ---
-aliases: 115年度公視與TaiwanPlus預算
+aliases: 2026_0806_115年度公視與TaiwanPlus預算
 title: 115年度公視與TaiwanPlus預算
 description: 115年度中央政府總預算案中公共電視、客家台及 TaiwanPlus 預算編列情形與教文委員會審查進度。
 draft: false
